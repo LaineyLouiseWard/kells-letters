@@ -1,0 +1,31 @@
+02	pit illis	gap between t and i lies under the t's long bar; spacing of pit/illis unclear
+02	illis dicere	only a narrow gap between s and d; may be run together
+03	ascendimushierusolimam	s-h gap narrow, typed as run together
+03	hierusolimam	i read from a descending stroke under the e after h; not a clear i
+03	hierusolimam	final m is a 3-shaped sign with a tail below the line
+04	#filiushominis	no clear gap between filius and hominis
+04	principib:	dark colon after b typed; two paler dots to its right left out as decoration
+06	#tra	short dash after a, before the dot ornament, left out
+06	morte #tra	single dot under the end of the drawn-out e-tongue left out as decoration
+07	eumgentibus	m-g gap narrow, typed as run together
+07	etco?	faint letter after o at the faded line end, not readable
+08	ineum	i and n (stem, then stem-hairline-stem) clear before eum
+08	eum.	small mark on the line after the faded m; may be a stain
+09	etinterficeint	letters read c-e-i-n-t in that order; no i seen between c and e
+09	tertia dieresurg?	small gap with a dot at the foot of a; dot left out, gap typed
+09	dieresurg?	faint round letter after g, cut by the image edge
+10	##ccidunt	large knotwork initial typed #, the coloured ringed a typed #
+10	##ccidunt	letter after cc is a c-curve joined to a straight stem: read i, could be e
+10	iacobus ?	faint round letter at the right edge (e or the start of et)
+11	zebedei · #icen	dark mid-height mark flanked by two triangles of red dots; typed as ·
+11	#icen	n very faded at the line end
+12	utquodcumq:	two paler dots after the colon left out as decoration
+13	#tille	coloured a typed #, then a c-curve with right stroke under a flat bar read as ti
+15	utinus	after the first u a c-curve with right stem under a flat bar (ti); expected ut unus
+16	adsenisteram	letter after the first s is e-like with a stem going below the line; may be i
+17	#hs	I, h and s all coloured and ringed with red dots; I typed #, h and s as letters
+17	#hs autem	gap before autem holds the red dot ring of the s
+18	citis	ci and ti both look like a; read c-i-ti-s
+18	quidpetatis	after the tall e three a-like shapes read as t, a, ti
+18	potest?s	after t a c-curve with a right stem; ti or a, not clear
+18	calic	l partly covered by the beast ornament above

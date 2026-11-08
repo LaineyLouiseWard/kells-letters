@@ -1,0 +1,29 @@
+01	possumus·	final s is written above the line after u; typed in place per 'Type what that image holds, even if it is a word end written above the line'; the dot beside it is raised, typed ·
+02	#t illis	A ringed with red dots typed # per 'A decorated initial (enlarged and coloured, or ringed with red dots) is #'; then a c-curve under a flat bar (t) and a gap of about 30 px before illis; no i of Ait seen; space per 'Spaces only where the scribe left a visible gap' (a long t-bar 'is not a hyphen')
+02	ca licem	the gap is a hole in the parchment the scribe wrote around; typed as a space because it is a visible gap; could be calicem
+02	quiden	last letter before the line-end loop has two uprights joined by an arch (n), unlike the three-upright m of licem; the loop is a line-filling ornament; could be m with its third stroke turned into the loop
+03	bibetis ·	tall e whose tongue forms the t-bar, then an a-shaped glyph read as ti per 'looks like the letter a but is "ti"'; dot at mid-height with about 13 px either side, typed with spaces
+03	aute m	hole in the parchment between e and m, typed as a space as for ca licem; could be autem
+05	uobis·	black dot touches the s (4 px), so no space; the four red dots after it and round the S are decoration per 'dots ringing an initial are decoration'
+05	#edqui	line ends qui and line 06 begins quibus: the scribe repeated qui; typed as written per 'the image wins'
+06	meo ·	black dot about 14 px after o, then red dots and a red stroke (line-filling ornament, not typed)
+07	dientes	d has a colour-filled bowl but is not enlarged, typed d; the decorated initial of audientes is outside this image
+07	illi·x·	x (decem) stands between two black points, each set among red dots; the points are typed ·, the red dots are decoration; the left point sits in the x's left notch with no gap, so no space before it
+07	indignati	last glyph is a c-curve under a flat bar with the i as right stroke, read as ti per the 308r convention
+08	fratrib ·	after b a colon-shaped abbreviation sign (b: for bus) is left out per 'type only the letters on the page; leave out the abbreviation stroke'; then a black point at mid-height typed ·; the red dots after it are line-filler; alternative fratrib:·
+11	s autem	s follows the decorated h whose fragments are lines 09, 12 and 13; typed per 'The letters after it are typed normally'
+12		lower stem and knot of the decorated h (of ihs) left empty as 'a sliver of a letter'; could be #
+14	?at	image starts inside the G-shaped et (its e lies left of the image); only its lower sweep and spur are in the image, typed ?; then a two-bowl a and t, no i of ait seen (as line 02)
+14	scitis	after sc, two a-shaped glyphs (curve plus right upright) under one bar, read as ci and ti; could be read ti ti
+14	quiaprincipes	a to p gap about 8 px, no wider than letter spacing; kept together per 'Spaces only where the scribe left a visible gap'
+14	gentiu	after u a 3-shaped sign with a tail below the line (nasal mark for m) is not typed, as the settled 308r line 12 note
+15	#quimaores	decorated et typed # per 'a decorated et included'; i to m gap about 8 px, kept together; no i between a and o, typed as written
+16	exercent ineos ·	about 28 px gap under the drawn-out t-bar before in, typed as a space; black point after eos typed ·, red dots after it not typed
+17	#on itaerit	decorated N typed #; o has a colour fill but is not enlarged, typed o; n to i gap about 12 px typed as a space; a and e touch, kept together
+17	sedquicumq	final q is followed by a colon-shaped abbreviation sign (q: for que), left out as for line 08; alternative sedquicumq:
+18	maor	no i between a and o, typed as written
+18	sit	last letter is a c-curve under a flat bar drawn out to the line end: t, not c; the bar is 'not a hyphen'
+19	#quiuoluerit	decorated et typed #; gaps between qui and uoluerit are 7 to 12 px, no wider than letter spacing; kept together
+20	erit uester	hole in the parchment between the words, typed as a space; s of uester is the tall form, typed s
+24	seruus	faint ghost letters to the left are show-through, not typed; ornament after the word not typed
+25		small black mark in the bottom-left margin, not text; left empty

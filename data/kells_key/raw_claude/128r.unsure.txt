@@ -1,0 +1,44 @@
+01	uosscio	no visible gap between uos and scio
+01	?	round stroke cut by the image edge after scio
+02		faint strokes of one or two letters; left empty as a sliver
+04	non est	gap between non and est barely wider than letter spacing
+05	sedsurrexit	gap between sed and surrexit about as wide as letter spacing
+06	?	faint partial letter at the left edge
+06	uide?e	faint: d read from a faint bowl and a tall stroke; e is the tall (s-like) form; no t seen before the last e
+06	possitus	strokes after ss read as i, t (bar and curve), u (two minims)
+06	eratdns	no clear gap between erat and dns
+07	et	6-shaped et; not dot-ringed, colour not visible in the image
+08	?	round stroke cut by the left edge
+08	.	faint dot between discipulis and eius; may be a speck
+08	qu?	letter after u cut by the image edge
+09	surrexit	first s cut by the left edge; x looks like u with a thin descender
+09	amortuis	no gap between a and mortuis; a looks like u under the t-bar
+09	praecedit	faint curves under the drawn-out t-bar to the line end not typed
+10	ingalileam	gap after in no wider than letter spacing
+10	uidebitis	u and i faint; e is the tall (s-like) form
+10	?	faint round letter under the t-bar of sicut
+11	?t	stroke before t unclear
+11	uobis	i and s faint, with dashed strokes between them
+13	?nt	stroke before n unclear
+13	dem??umento	minims between m and u unclear
+13	.	dot after cum may be a speck
+14	imore	first stroke at the left edge read as i; no t in the image
+14	#orren	letter after the decorated c looks like o, may belong to the initial's colour; e is the tall (s-like) form
+15	?s	partial letter at the left edge
+15	nuntiare	raised double dash after nuntiare not typed
+16	?rit	first letter cut by the left edge
+16	?	round letter cut by the image edge
+17	?u??t	partial at the edge, then two short strokes before t
+17	#?e	6-shaped letter with coloured fill read as decorated; next letter c or t
+18		sliver of a letter; left empty
+19	?t	partial letter before t
+19	??ora?erunt	faint: a and d not clear; letter after a looks like t
+19	:·	three more dots follow to the image edge (a second :· or ornament), not typed
+20	illis	second l and i joined, look like h
+21	fra?	letter after a cut by the edge under a long bar
+22	?alileam	partial at the left edge; a looks like u
+23	:·	small cluster of dots after the t-bar, before the initial; count unclear
+23	#uae	u partly coloured; letters after the initial unclear
+23	???	faint, letters not readable
+23	abissent	b, e, n, t faint
+23	.	dot before ecce may be a speck

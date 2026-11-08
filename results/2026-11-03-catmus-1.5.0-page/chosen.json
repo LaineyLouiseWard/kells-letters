@@ -1,0 +1,21 @@
+{
+ "setting": "freeze",
+ "settings": {
+  "plain": {
+   "passes": 32,
+   "two_fold_error": 0.0506
+  },
+  "freeze": {
+   "passes": 34,
+   "two_fold_error": 0.0444
+  }
+ },
+ "model": "data/models/kells_page/kells_freeze/final.safetensors",
+ "model_md5": "726779b06fb4a1bd1b40a22aedcb112e",
+ "stgall_model": "data/models/kraken/best_0.9840.safetensors",
+ "stgall_model_md5": "db6a7a2cb575fdcaea00dce92f800869",
+ "key_md5": null,
+ "key_at_training": "lines re-cut from the page images on every pass (-f page); trained on the key as it stood before the once-over's 13 changes",
+ "archived": "from data/models/ and data/read/ on 3 Nov 2026 (night); scores rescored against adjudication.csv md5 c6578d45155e72e83a3388ed3bc6b5df",
+ "settings_note": "passes as trained (the final models' last checkpoints)"
+}

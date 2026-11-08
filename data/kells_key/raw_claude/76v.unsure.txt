@@ -1,0 +1,19 @@
+02	re	t of ostenderet not seen; long stroke after e read as the drawn-out e-tongue
+02	eis	square dots after the line-filling ornament at the line end not typed
+03	#acto	a after the initial has a coloured fill but is normal size; typed as a, may count as #
+04	?cras	only one stem visible at the cut left edge (in expected)
+04	caelu?	final 3-shaped sign with a descender, probably m
+05	hodiete	curl above te (probably the m suspension) not typed; no visible gap between hodie and te
+06	rutulat	letter after t unclear, may be i (rutilat expected)
+06	enimtriste	narrow gap between enim and triste, read as run together
+07	pochritae.	no hi visible before p at the cut left edge; dot after e read as punctuation
+07	caeliiudica	gap of about 10 px between caeli and iudica, read as run together
+09	:·	square dots beside the decoration, read as the stop after potestis
+10	potesti	final s not in the image; ti read from the a-shaped ligature
+13	#neratio	e expected after the initial not seen; ink blob after o not typed
+17	signumionae	gap of about 9 px between signum and ionae, read as run together
+18	##umuenissent	C after the decorated et is coloured, enlarged and inside the dotted ring, typed #
+21	:·	square dots after the drawn-out e but clear of it, typed as punctuation; may be decoration
+23	#i	stroke just right of the initial, inside the dotted ring, may be the u of qui
+23	u obis	visible gap between u and o under the animal foot
+23	etca	et has a grey wash (may be decorated); dot-like end after a not typed

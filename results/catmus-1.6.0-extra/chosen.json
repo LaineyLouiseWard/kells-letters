@@ -1,0 +1,17 @@
+{
+ "setting": "plain",
+ "settings": {
+  "plain": {
+   "passes": 35,
+   "two_fold_error": 0.03787356615066528
+  },
+  "freeze": {
+   "passes": 35,
+   "two_fold_error": 0.03787356615066528
+  }
+ },
+ "model_md5": "61ba6b8dc79feecdc3eabb265f667314",
+ "stgall_model_md5": "ceeb849d5a410a7eef0232d3029f50e3",
+ "key_md5": "c6578d45155e72e83a3388ed3bc6b5df",
+ "commit": "e2ee553"
+}

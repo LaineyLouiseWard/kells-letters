@@ -1,0 +1,19 @@
+01	OK
+02	OK
+03	FLAG	#mnia quaefacta fuerant etcongregati	final a has two bowls
+09	OK
+10	OK
+11	OK
+12	OK
+13	OK
+14	OK
+16	OK
+17	FLAG	ihs loquutus ÷ dicens dataest mihi	two u letters after q; division sign before dicens
+19	FLAG	dubli	visible printed letters
+20	FLAG	oard o	visible printed letters, with a gap before final o
+21	FLAG	oll	visible printed letters
+22	FLAG	trini	visible printed letters
+
+[thread id: 01a1a363-22a6-7203-8e62-a5b68b821418]
+
+[gpt-6.1-sol: 22,393 in + 8,390 out tokens, ChatGPT plan (no API credit)]

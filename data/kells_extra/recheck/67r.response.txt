@@ -1,0 +1,14 @@
+01	OK
+03	FLAG	s autem auditeparabulam semi	Visible gap after initial s.
+04	FLAG	#antis omnis quiaudit uerbumregni	Initial n has spiral decoration.
+05	OK
+06	FLAG	illudquodseminatumest incorde eius:·	Three dots after eius.
+08	OK
+10	OK
+12	OK
+14	OK
+17	OK
+
+[thread id: 01a1a5ec-0f78-7d20-a6b3-c13034c5325e]
+
+[gpt-6.1-sol: 21,855 in + 3,659 out tokens, ChatGPT plan (no API credit)]

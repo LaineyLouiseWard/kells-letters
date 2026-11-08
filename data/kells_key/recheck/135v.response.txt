@@ -1,0 +1,16 @@
+02	OK
+03	FLAG	es cumauferetur abeis sponsus :·	Three detached square dots at right form :·.
+04	OK
+07	OK
+09	OK
+10	OK
+11	OK
+13	OK
+14	OK
+15	OK
+16	OK
+17	OK
+
+[thread id: 01a1a363-2246-77c2-93c1-b4812950eec8]
+
+[gpt-6.1-sol: 23,985 in + 2,965 out tokens, ChatGPT plan (no API credit)]

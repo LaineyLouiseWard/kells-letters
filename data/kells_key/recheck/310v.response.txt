@@ -1,0 +1,13 @@
+03	OK
+04	OK
+05	OK
+06	OK
+09	OK
+12	FLAG	#ergo uideretis filium hominis ascen	The disputed letter has an e bowl joined to t.
+15	OK
+16	FLAG	quicquam :· #uitasunt sed	The disputed letter has a q bowl and descending stem.
+20	OK
+
+[thread id: 01a1a363-227c-7af1-a6bb-cb2f88fb27d7]
+
+[gpt-6.1-sol: 22,772 in + 3,191 out tokens, ChatGPT plan (no API credit)]

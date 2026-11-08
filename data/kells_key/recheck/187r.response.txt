@@ -1,0 +1,14 @@
+01	FLAG	illis undecim apparuit ihs· #expro	No separate dot before ihs; the mark belongs to the preceding t.
+02	FLAG	brauit incredulitatem eorum #du	The et is decorated with a dotted border.
+03	OK
+04	OK
+05	OK
+13	OK
+15	FLAG	#utem eos quicrediderint	The initial a has a dotted decorative border.
+16	FLAG	#ec sequentur innomine meode	No visible gap between meo and de.
+20	OK
+21	OK
+
+[thread id: 01a1a363-229a-7052-bf70-3d45ee557502]
+
+[gpt-6.1-sol: 21,378 in + 4,722 out tokens, ChatGPT plan (no API credit)]

@@ -1,0 +1,91 @@
+md5 e3411a453ce3b9e9efae3f8631d85762 /home/people/18365881/scratch/kells-models/ppocrv6-medium/medium.safetensors
+md5 3e7c63cc3d607387eee59e02e95c0ac7 data/xml/stgall/train.kraken.arrow
+md5 7231018a7b3810283fc0e52b0e7412c0 data/xml/stgall/val.kraken.arrow
+commit 5d4ecf8
+md5 d297a45c0e13edc3c63e4bc93906d5e2 data/runs/ppocrv6-medium-extra/stgall/best.safetensors
+md5 be24c5c361d5603dc07ae5b8f729a15f data/xml/stgall/test.kraken.arrow
+commit 5d4ecf8
+Loading from data/runs/ppocrv6-medium-extra/stgall/best.safetensors.
+Testing ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 9/9 0:00:15 • 0:00:00 0.74it/s 
+=== report  ===
+
+29049	Characters
+311	Errors
+98.93%	Character Accuracy
+98.93%	Character Accuracy (Case-insensitive)
+92.72%	Word Accuracy
+
+129	Insertions
+130	Deletions
+52	Substitutions
+
+Count	Missed	%Right
+23803	78	99.67%	Latin
+5246	104	98.02%	Common
+
+Errors	Correct-Generated
+98	{ SPACE } - {  }
+78	{  } - { SPACE }
+13	{ e } - { ÷ }
+11	{ i } - {  }
+8	{  } - { · }
+6	{  } - { n }
+5	{  } - { i }
+5	{  } - { e }
+4	{  } - { . }
+4	{ · } - {  }
+4	{  } - { m }
+4	{  } - { r }
+3	{ u } - { a }
+3	{ t } - {  }
+3	{ s } - {  }
+3	{  } - { ÷ }
+2	{  } - { s }
+2	{ e } - { i }
+2	{ u } - {  }
+2	{ a } - { u }
+2	{ e } - {  }
+2	{ l } - {  }
+2	{  } - { a }
+2	{ a } - {  }
+2	{ e } - { SPACE }
+2	{  } - { o }
+2	{  } - { t }
+1	{  } - { u }
+1	{ ę } - { e }
+1	{ i } - { m }
+1	{ c } - { æ }
+1	{ s } - { t }
+1	{ s } - { i }
+1	{ n } - { t }
+1	{ i } - { r }
+1	{ o } - { u }
+1	{ u } - { r }
+1	{ n } - {  }
+1	{ a } - { æ }
+1	{ t } - { a }
+1	{ a } - { o }
+1	{ q } - { o }
+1	{ h } - { n }
+1	{ m } - { i }
+1	{ o } - { b }
+1	{ p } - { r }
+1	{ æ } - { c }
+1	{ . } - { · }
+1	{ y } - { s }
+1	{ ÷ } - { e }
+1	{ l } - { u }
+1	{  } - { d }
+1	{ d } - {  }
+1	{  } - { : }
+1	{  } - { , }
+1	{ u } - { i }
+1	{ c } - { e }
+1	{ t } - { q }
+1	{ c } - { t }
+1	{ p } - { s }
+1	{ i } - { q }
+1	{ p } - {  }
+1	{ x } - { c }
+1	{ c } - { d }
+

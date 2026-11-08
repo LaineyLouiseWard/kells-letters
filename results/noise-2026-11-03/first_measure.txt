@@ -1,0 +1,9 @@
+# First measurement, 23:2x on 3 Nov 2026, GPU and CPU otherwise idle: the same fold run as scripts/kells_noise.py
+# (fold1 trained, fold2 measured, 10 passes, CATMuS 1.6.0's St Gall model data/models/kraken16/best_0.9856.safetensors,
+# key copy data/runs/test-16/key, md5 c6578d45155e72e83a3388ed3bc6b5df), made by an earlier copy of its code; w0 is
+# --workers 0 instead of 4.
+w4_a: 30.2 s total, 7.1 s to the first measure, 2.40 s a pass after; errors 0.1159 0.0779 0.0720 0.0701 0.0642 0.0536 0.0472 0.0509 0.0545 0.0536
+w4_b: 30.5 s total, 7.3 s to the first measure, 2.41 s a pass after; errors 0.1159 0.0779 0.0720 0.0697 0.0619 0.0541 0.0518 0.0545 0.0527 0.0532
+det_a: 31.1 s total, 7.4 s to the first measure, 2.48 s a pass after; errors 0.1155 0.0770 0.0710 0.0669 0.0632 0.0573 0.0513 0.0527 0.0550 0.0486
+det_b: 31.7 s total, 7.4 s to the first measure, 2.50 s a pass after; errors 0.1155 0.0770 0.0710 0.0669 0.0632 0.0573 0.0513 0.0527 0.0550 0.0486
+w0: 40.2 s total, 8.2 s to the first measure, 3.41 s a pass after; errors 0.1159 0.0784 0.0706 0.0710 0.0660 0.0545 0.0527 0.0541 0.0541 0.0500

@@ -1,0 +1,18 @@
+01	pe?uum	after the tall e a bowl (d if the e's looped top is its ascender, else o), then two u shapes and a three-stem m; expected pedum
+02	go	only the right edge and tail of the g are in the image
+05	neq: ausus	gap after the : is about 10 px, between word and letter spacing
+07	exilla·	dot sits at mid letter height, typed raised
+07	:·	three solid dots set among the outline rosettes of the line-filling ornament; typed as punctuation
+08	?c	first stroke cut by the image left edge (n of Tunc or part of the initial); c has a coloured fill but is not enlarged, typed c
+08	?	thin curve cut by the image right edge, not readable
+08	locutusest	gap between locutus and est only about 4 px; typed together
+10	super	after p a tall e with a small r joined; mark above
+11	mo?si	letter after o has a flat top and curled tail like the g; y or g
+11	scribe	small dot below the drawn-out e tongue, not typed
+12	pharissei	e has a long tail below (e caudata?), typed e
+12	quecumque	first e has a long tail below (e caudata?); ink blot above the second u, not typed
+14	cundum·	two small marks, not stacked, typed as one raised dot
+14	#ero	u enlarged with an inner fill that may be colour; if not decorated it is u
+15	etnonfaciunt	et is the &-shaped one, plain black; final t written above the line
+16	oneragraui?	last letter is a bowl with a tall straight stem like d; expected a
+18	hominumdigito	no visible gap between hominum and digito

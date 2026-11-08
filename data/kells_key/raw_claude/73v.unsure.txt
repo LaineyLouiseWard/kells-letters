@@ -1,0 +1,13 @@
+01	solimisscribae	l and i joined, could read as u; gap of about 6 px between solimis and scribae read as run together
+03	nonenim	gap of about 9 px between non and enim, read as run together
+04	manducant	t written below the line under the final an
+06	mandatu?	final 3-shaped sign after u, probably m
+09	#quimaledixerit	q after the decorated et has a coloured bowl but is normal size; typed as q
+10	.	square dot after the drawn-out r stroke, read as punctuation; may be decoration
+10	uos	U and o have coloured fill, U only slightly enlarged; may count as #os
+12	quodcumq	abbreviation mark like : after q not typed
+14	#	enlarged et with a few red dots by its foot, typed #; may be plain et
+16	inritum	second letter has the n shape (irritum expected)
+17	:·	square dots after the line-filling ornament but clear of it, typed as punctuation; may be decoration
+17	#ypucri	letter after p is u-shaped (o expected)
+18	isaias	enlarged plain I typed as i

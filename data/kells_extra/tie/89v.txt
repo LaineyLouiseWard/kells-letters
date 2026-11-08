@@ -1,0 +1,8 @@
+01	line 2	x 1050-1385
+02	line 14	x 0-260
+
+GPT:
+01	uden
+01note	u partly cropped.
+02	aut sc
+02note	a and final c partly cropped.

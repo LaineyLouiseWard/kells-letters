@@ -1,0 +1,19 @@
+02	OK
+03	OK
+04	OK
+06	OK
+07	OK
+08	OK
+09	FLAG	etinterficeint eum ettertia dieresurg?	Rounded e precedes the i: eint.
+10	FLAG	##ccidunt adeum iacobus et	Faint et ligature at the right edge.
+11	FLAG	iohannis filizebedei:· #icen	One i after l; three dots directly after zebedei.
+12	OK
+13	OK
+15	FLAG	erunt danobis utunus addexteram	After ut, two strokes joined below form u.
+16	FLAG	tuam etalius adsenisteram sedeamus	Rounded e after the first s in senisteram.
+17	OK
+18	OK
+
+[thread id: 01a1a363-229a-7790-9bea-6877c865db3d]
+
+[gpt-6.1-sol: 24,834 in + 6,229 out tokens, ChatGPT plan (no API credit)]

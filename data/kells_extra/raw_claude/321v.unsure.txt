@@ -1,0 +1,19 @@
+01	#espondit	R ringed with red dots typed # per "A decorated initial (enlarged and coloured, or ringed with red dots) is #"; rosettes after sit and ille not typed (decoration)
+03	nescitis	c then a straight minim read as ci, then the ti ligature, per "The real a in Kells has two bowls" and "t then i written as one c-shaped curve ... is 'ti'"
+04	quia	i in faint ink; a written small below the line under i and half cut by the image edge; typed per "A letter cut by the edge of the line image is typed if it can be read"
+05	ds	d with a short flat ascender; abbreviation stroke left out per "type only the letters on the page; leave out the abbreviation stroke above"
+05	·	dot under the drawn-out t-bar of nonaudit typed as a raised dot (as 308r line 07 "nonesset · ibi"); could be decoration per "Dots at the end of a drawn-out stroke ... are decoration"
+06	facithu	about 12px between facit and hu, judged no space per "Spaces only where the scribe left a visible gap"
+07	auditu	3-shaped sign with a tail after u not typed, per 308r line 12 "a nasal mark for n: an abbreviation mark, not typed"
+09	nonpoterat facere	19px gap under the t-bar that runs into f, typed as a space; "A letter stroke drawn out along the line (a long t-bar or e-tongue) is not a hyphen"
+11	ei	e then i; the i could be the first minim of the following letters
+11	mpeccatis	m is three minims joined at the top; could be i + n (in peccatis)
+11	ettudoces	final s is written above the line end (also visible at the foot of the line 10 image); typed here per "Type what that image holds, even if it is a word end written above the line"
+13	ihs quiaeiecerunt	13px gap between ihs and quia, typed as a space; quia and eiecerunt touch
+13	eu	3-shaped sign with a tail after u not typed, per 308r line 12 nasal-mark note
+14	foras	f cut by the left image edge: only the top arm and foot show; typed per "A letter cut by the edge of the line image is typed if it can be read"
+16	dne ut	16px gap under a drawn-out e-tongue typed as a space; dots above the abbreviation stroke not typed (decoration)
+17	etuidistieum	10px between uidisti and eum, no space typed
+17	etquiloquiturtecu	15px between loquitur and tecu, joined at the top, no space typed; nasal sign after u not typed
+18	est atilleait	18px gap between est and at typed as a space; at read as a (two bowls) + ti ligature
+18	credodne	12px gap with the d ascender curling over o, no space typed

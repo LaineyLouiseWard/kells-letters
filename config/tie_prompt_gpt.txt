@@ -1,0 +1,8 @@
+Each image is a stretch of one line of a Latin manuscript, numbered 01, 02, ... Type the letters you see in each image, exactly as written, letter by letter. Do not correct the spelling to what the text should say, and do not complete words cut by the image edge.
+
+- Letters in lower case. Do not expand shortened words; leave out abbreviation strokes.
+- The et shaped like & is typed et. A t followed by i, written as one c-shaped curve under the t's top bar with the i as its right-hand stroke, looks like a but is typed ti.
+- A decorated initial (enlarged and coloured, or ringed with dots) is typed #.
+- A letter you cannot read with confidence is typed ?.
+
+Answer with one line per image and nothing else: its number, a tab, the letters (a space where the scribe left a visible gap). Then, on a second line for the same image starting with its number and "note", say in a few words which letters were hard.

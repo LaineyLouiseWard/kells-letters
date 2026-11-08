@@ -1,0 +1,14 @@
+02	OK
+04	OK
+06	FLAG	cultorest etuoluntatem eius facit hu	Visible gap between final t and h.
+07	OK
+10	OK
+11	FLAG	nt ei inpeccatis natuses totus ettudoces	Separate i followed by n, rather than m.
+12	OK
+13	OK
+15	OK
+17	OK
+
+[thread id: 01a1a5ec-0f07-75b2-ab62-1b10493a91dd]
+
+[gpt-6.1-sol: 24,323 in + 4,187 out tokens, ChatGPT plan (no API credit)]

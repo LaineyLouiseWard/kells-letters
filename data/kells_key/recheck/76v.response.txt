@@ -1,0 +1,13 @@
+02	FLAG	re eis atillerespondens ait eis :·	Three separate dots after the final ornament.
+03	FLAG	##cto uespere dicitis serenum erit :	Two punctuation dots after erit.
+04	FLAG	?cras · #ubicundum est caelum	Final m curls downward at the right edge.
+05	OK
+06	FLAG	pestas rutulat enimtriste caelum	The second u in rutulat has two strokes joined below.
+07	OK
+15	OK
+18	OK
+23	OK
+
+[thread id: 01a1a363-2238-7513-8e5c-735e8b44ca50]
+
+[gpt-6.1-sol: 22,379 in + 4,675 out tokens, ChatGPT plan (no API credit)]

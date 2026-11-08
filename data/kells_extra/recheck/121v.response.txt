@@ -1,0 +1,17 @@
+02	OK
+04	FLAG	#incipes autem · sacerdotum	raised dot after autem
+05	OK
+06	FLAG	pulis utpeterent barban ihm ue	visible gap between m and u
+07	FLAG	ro perderent :·	three dots beyond the ornament
+08	OK
+09	OK
+12	OK
+15	OK
+16	OK
+17	FLAG	uerunt dicentes crucifigatur ·	separate raised dot after final r
+18	OK
+19	OK
+
+[thread id: 01a1a5ec-1013-7a00-97fa-af8f71bcb6f2]
+
+[gpt-6.1-sol: 22,622 in + 6,331 out tokens, ChatGPT plan (no API credit)]

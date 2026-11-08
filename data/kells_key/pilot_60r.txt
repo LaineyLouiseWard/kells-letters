@@ -1,0 +1,27 @@
+# Kells 60r (Matthew 11:8-15), Claude's first-pass reading, 3 Nov 2026. Letters as written; [?] = unsure.
+# Decorated initials in capitals. Not yet checked by a second independent copy.
+01 regum sunt sed quid exi[?]stis uidere profe
+02 tam etiam dico uobis et[?] plus quam profeta
+03 Hic est enim de quo scriptum est ecce
+04 ego mitto angelum meum ante faciem tuam
+05 qui praeparabit uiam tuam ante te
+06 Amen dico uobis non surrexit in
+07 ter natos mulierum maior iohan
+08 ne baptista qui autem minor est in
+09 regno caelorum maior illo
+10 A diebus autem iohannis baptis
+11 tae usque nunc regnum caeloru[?]
+12 uim patitur et[?] uiolenti rapiunt illud
+13 Omnes enim profetae et[?] lex usq[?]
+14 Ad iohannem profetauerunt
+15 et[?] si uultis percipere ipse est helias
+16 qui uenturus est qui habet aures au
+17 diendi audiat
+# Differences from the Vulgate seen here: "hic est enim" (Vulgate "hic est"), "profeta" (prophetam), "maior illo"
+# (maior est illo), "percipere" (recipere), f for ph throughout.
+# Hard parts: decorated initials (lines 3, 6, 10, 13, 14), the et sign, the usq and caeloru shortenings.
+# Checked against Abbott 1884 vol. 1 (Codex K = Kells, Matthew 11:9-14), 3 Nov 2026:
+#   matched 4 of the 5 Kells differences Abbott records on this page: "plusquam profeta" (9), "est enim" (10),
+#   "om. est sec." = "maior illo" (11), "et si ... percipere" (14).
+#   missed 1: line 12 reads "uiuolent-" ("vivolenti" in Abbott, Kells' own slip); the pilot normalised it to "uiolenti".
+#   Abbott does not record spelling-only differences (f for ph), so spelling must come from the image.

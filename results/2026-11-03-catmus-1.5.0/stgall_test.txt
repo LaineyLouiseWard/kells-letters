@@ -1,0 +1,124 @@
+md5 02bb2e4e5bc681c11579a860c40dc5a4 /home/lainey/.local/share/kells-models/catmus-1.5.0/catmus-medieval.mlmodel
+md5 db6a7a2cb575fdcaea00dce92f800869 data/models/kraken/best_0.9840.safetensors
+md5 0f24fe9c6f0b99923fb12c0825d161d3 data/xml/stgall/test.kraken.arrow
+md5 f3c0a7fae3504dfb9ea07092365f9894 data/xml/stgall/train.kraken.arrow
+md5 9c24e0ffd62647fb8fb24e3a1a2dbd44 data/xml/stgall/val.kraken.arrow
+archived from data/models/kraken/test_cer.txt (ketos test, 3 Nov 2026)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+💡 Tip: For seamless cloud logging and experiment tracking, try installing [litlogger](https://pypi.org/project/litlogger/) to enable LitLogger, which logs metrics and artifacts automatically to the Lightning Experiments platform.
+Loading from data/models/kraken/best_0.9840.safetensors.
+💡 Tip: For seamless cloud uploads and versioning, try installing [litmodels](https://pypi.org/project/litmodels/) to enable LitModelCheckpoint, which syncs automatically with the Lightning model registry.
+You are using a CUDA device ('NVIDIA GeForce RTX 5060 Laptop GPU') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+Testing ━━━━━━━━━━━━━━━━━ 540/540 0:00:13 • 0:00:00 40.75it/s  early_stopping:  
+                                                               0/10 -inf        
+=== report  ===
+
+29049	Characters
+457	Errors
+98.43%	Character Accuracy
+98.43%	Character Accuracy (Case-insensitive)
+89.61%	Word Accuracy
+
+102	Insertions
+263	Deletions
+92	Substitutions
+
+Count	Missed	%Right
+23803	154	99.35%	Latin
+5246	201	96.17%	Common
+
+Errors	Correct-Generated
+189	{ SPACE } - {  }
+60	{  } - { SPACE }
+19	{ i } - {  }
+18	{ e } - { ÷ }
+8	{  } - { · }
+7	{ e } - {  }
+7	{ s } - {  }
+7	{ n } - {  }
+5	{ u } - { a }
+5	{ · } - {  }
+5	{  } - { e }
+5	{  } - { n }
+5	{  } - { r }
+4	{ t } - {  }
+4	{  } - { m }
+4	{ u } - {  }
+3	{ l } - {  }
+3	{ s } - { r }
+3	{  } - { i }
+3	{ z } - { r }
+3	{ i } - { m }
+3	{ a } - {  }
+3	{ d } - { o }
+2	{ n } - { m }
+2	{ ę } - { e }
+2	{ q } - {  }
+2	{ h } - {  }
+2	{ i } - { h }
+2	{  } - { s }
+2	{ n } - { h }
+2	{ e } - { i }
+2	{ a } - { u }
+2	{ m } - { i }
+2	{ r } - {  }
+2	{ o } - {  }
+2	{ b } - {  }
+2	{  } - { o }
+2	{ x } - { c }
+2	{  } - { t }
+1	{ i } - { n }
+1	{ c } - { æ }
+1	{  } - { l }
+1	{  } - { u }
+1	{ e } - { a }
+1	{ a } - { i }
+1	{ c } - { d }
+1	{ c } - { o }
+1	{ s } - { t }
+1	{ n } - { t }
+1	{ a } - { o }
+1	{ a } - { t }
+1	{ u } - { l }
+1	{ q } - { o }
+1	{ x } - { u }
+1	{ t } - { c }
+1	{ l } - { t }
+1	{ SPACE } - { e }
+1	{ ÷ } - {  }
+1	{ . } - { · }
+1	{ q } - { u }
+1	{ p } - { r }
+1	{ æ } - { c }
+1	{ y } - { s }
+1	{  } - { a }
+1	{ : } - { ÷ }
+1	{ , } - {  }
+1	{ l } - { u }
+1	{ r } - { n }
+1	{ : } - { · }
+1	{ , } - { SPACE }
+1	{ c } - { e }
+1	{  } - { : }
+1	{ l } - { s }
+1	{ i } - { e }
+1	{ p } - {  }
+1	{ c } - { SPACE }
+1	{ o } - { i }
+1	{ t } - { s }
+1	{ x } - { e }
+1	{ m } - {  }
+1	{ m } - { n }
+1	{ x } - { t }
+1	{ u } - { o }
+1	{ c } - { t }
+1	{ u } - { m }
+1	{ e } - { m }
+1	{ e } - { SPACE }
+1	{  } - { ÷ }
+1	{ d } - {  }
+1	{  } - { d }
+1	{ t } - { a }
+

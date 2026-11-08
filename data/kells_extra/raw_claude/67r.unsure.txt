@@ -1,0 +1,21 @@
+01	etnonau	et (&-shaped) has a 10 px gap before n; run together as in 308r "etuene"
+01	quaeauditis	ti read as the ti ligature (single c-curve under the t bar, not a two-bowl a)
+02	derunt	first letter read as uncial d with ascender bent left; no i visible ("Do not guess from the expected text")
+03	sautem	line image starts at s, the uo of uos is not in the image (likely in the initial outside the crop); s|a touching
+03	auditeparabulam	e|p gap 5 px, run together; u in parabulam (Abbott parabolam): "the image wins"
+04	nantis	decoration at the left edge (part of a large initial from the lines above) not typed ("only decoration" is not text); ti ligature read
+04	uerbumregni	m|r gap 9 px, typed together; i of regni written above the n
+05	#nonintellegit	enlarged et with colour fill typed # ("a decorated et included"); n|i gap about 10 px, run together
+06	illudquodseminatumest	d|q gap 9 px, the same as letter spacing in this line, typed together
+06	eius	e drawn with the drawn-out tongue of corde entering it; could be read as an a-like form
+07	#icest	h enlarged with colour-filled bowl typed #
+08	#uiautem	decorated Q typed #
+08	suprapetrosa.	single dot on the line after a ("one dot on the line is '.'")
+08	seminatusest ·	short mid-height stroke after t typed as raised dot; rosette after it not typed (line-filling ornament)
+09	#icest	h enlarged with colour-filled bowl typed #
+10	nonhabet	final et written as the &-shaped e+t ("is e and t joined: type 'et'"); its drawn-out tongue before au not typed
+12	acpersecuti	final ti read as the ti ligature; ac (two-bowl a then c) as Abbott CoDEX K "ac pro et"
+14	lizatur :· :·	first three-dot cluster is grey (coloured); typed as :· but may be decoration
+16	licitudo	ti ligature read in licitudo and istius
+16	diuiti	last letter read as the ti ligature (line 17 begins arum)
+17	arum	dot above the last stroke of m not typed (no listed sign fits); u'erbum mark between u and e not typed

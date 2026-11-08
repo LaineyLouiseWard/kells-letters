@@ -1,0 +1,13 @@
+01	OK
+05	OK
+06	OK
+09	OK
+10	OK
+14	OK
+17	FLAG	inbethaniam ubi lazaru.s fuerat mor	dot on the baseline between u and s
+18	FLAG	#uus quem suscitauit ihs	initial t is decorated and ringed with dots
+20	FLAG	tha ministrabat lazarus ueroerat	final t is visible at the right edge
+
+[thread id: 01a1a363-224d-7101-a49c-5e025977fa75]
+
+[gpt-6.1-sol: 21,949 in + 2,560 out tokens, ChatGPT plan (no API credit)]

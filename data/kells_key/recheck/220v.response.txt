@@ -1,0 +1,10 @@
+02	FLAG	cecidit superpetram etnatum aruit	initial ce is legible; joined strokes
+03	OK
+04	FLAG	cecidit interspinas #simul exortae	initial ce is legible; joined strokes
+06	FLAG	cecidit interram bonam etortum fecit	initial ce is legible; joined strokes
+13	OK
+15	OK
+
+[thread id: 01a1a363-2287-73f3-92d8-b234b426f44f]
+
+[gpt-6.1-sol: 20,884 in + 3,554 out tokens, ChatGPT plan (no API credit)]

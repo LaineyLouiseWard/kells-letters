@@ -1,0 +1,25 @@
+01	adpjlatum	letter after p starts at x-height and descends below the line with a left hook (j form of i); typed j
+02	pjlatus	same j-form i after p as line 01
+02	iusit	one s only
+02	·	single dot at mid height after ihu, before the decorated T
+03	corpus	four dots in a cross after corpus, then faint ornament; taken as decoration, not typed
+04	accepto	only the dot ring and a sliver of the decorated initial (Et) at the left edge; no # typed
+05	insindone	n written in capital form; the i-n after s look like m
+06	inmonumento	the t in -nto faint
+07	quodexciderat	after ex: a c then a single-bowl shape with a right stroke; read as ci, could be a
+07	inpetra	drawn-out t-bar of erat runs to the i; space typed; stroke and dot after petra taken as decoration
+08	etaduoluit	et at line start shaped like &, slightly enlarged, no colour seen; typed et
+09	inmonumenti	final ti looks like a single-bowl a under a flat bar
+09	etabit	t-bar drawn out as line filler; four dots in a cross at line end not typed
+10	magda	last letter small, single bowl with a tall right stroke; a or l
+11	lmae	three minims joined at the top after l: m, or in
+11	etaltera	et shaped like &, no colour seen; typed et
+11	seden	final letters: tall-backed e then a faint n
+12	saepulchrum :·	three dots right after m typed as :·; the dot crosses after it taken as line-filling ornament; faint marks at the end look like show-through
+13	#tera	l enlarged with a coloured bowl; the A initial itself is outside the image
+13	die	e-tongue drawn out; faint dot on the line after it, not typed
+13	quaeest	no visible gap between quae and est
+14	parasceuen	c and e after s crowded
+16	dicentes dne	faint dot on the line after dicentes, not typed; stroke above dne left out
+17	recordati	ti written as an a-like shape under a flat bar
+17	quodseductorille	u in seductor faint; no visible gap before ille

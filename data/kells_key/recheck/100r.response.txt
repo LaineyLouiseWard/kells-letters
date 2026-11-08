@@ -1,0 +1,17 @@
+01	OK
+04	OK
+05	OK
+07	OK
+08	OK
+09	OK
+10	OK
+14	OK
+15	FLAG	eci quidenim maius est donum	Starts with eci; no preceding decorated initial visible
+16	OK
+17	OK
+18	FLAG	etinomnibus quaesuper illud sunt ·	Initial joined et has ordinary letter strokes, without decoration
+23	OK
+
+[thread id: 01a1a363-2240-7020-ae70-76dbff548ff2]
+
+[gpt-6.1-sol: 22,907 in + 3,395 out tokens, ChatGPT plan (no API credit)]

@@ -1,0 +1,174 @@
+folio,n,claude,gpt,decision,unsure
+321v,1,nescimus undesit #espondit ille,nescimus undesit #espondit ille,nescimus undesit #espondit ille,
+321v,2,homo etdixit eis inhocenim mirabileest,homo etdixiteis inhocenim mirabileest,homo etdixiteis inhocenim mirabileest,no visible gap between dixit and eis
+321v,3,quiauos nescitis undesit #aperuit,quiauos nescitis undesit #aperuit,quiauos nescitis undesit #aperuit,
+321v,4,oculos meos oculosscimus autem quia,oculos meos oculosscimus autem qui,oculos meos oculosscimus autem qui?,"i at the edge; a small cut letter below it, unreadable (GPT blind look saw qu only)"
+321v,5,peccatores ds nonaudit · #edsiquisdi,peccatores ds nonaudit · #edsiquisdi,peccatores ds nonaudit · #edsiquisdi,
+321v,6,cultorest etuoluntatem eius facithu,cultorest etuoluntatem eius facit hu,cultorest etuoluntatem eius facithu,no visible gap between facit and hu
+321v,7,nc exaudit asaeculo nonest auditu,nc exaudit asaeculo nonest auditum,nc exaudit asaeculo nonest auditu,3-shaped m sign at the line end not typed
+321v,8,quiaaperuit quisoculos caecinati ni,quiaaperuit quisoculos caecinati ni,quiaaperuit quisoculos caecinati ni,
+321v,9,si esset hicado nonpoterat facere,si esset hicado nonpoterat facere,si esset hicado nonpoterat facere,
+321v,10,quicquam :· #esponderunt etdixeru,quicquam #esponderunt etdixeru,quicquam #esponderunt etdixeru,dots by the rosette are decoration
+321v,11,nt ei mpeccatis natuses totus ettudoces,nt ei inpeccatis natuses totus ettudoces,nt ei inpeccatis natuses totus ettudoces,"three minims joined at the top: m, though Abbott has in peccatis; once-over: was 'nt ei mpeccatis natuses totus ettudoces' (zoomed at 3x: the first minim stands apart, the arch joins only the second and third: i then n)"
+321v,12,nos eteiecerunt eum foras :·,nos eteiecerunt eum foras,nos eteiecerunt eum foras,dots and rosette after the line-filling stroke are decoration
+321v,13,#udiuitautem ihs quiaeiecerunt eu,#udiuitautem ihs quiaeiecerunt eum,#udiuitautem ihs quiaeiecerunt eu,3-shaped m sign at the line end not typed
+321v,14,foras etcuminuenisset eum dixitei tu,foras etcuminuenisset eum dixitei tu,foras etcuminuenisset eum dixitei tu,
+321v,15,credis infilium di #espondit ille etdix,credis infiliumdi #espondit ille etdix,credis infiliumdi #espondit ille etdix,gap between filium and di no wider than between letters
+321v,16,it quisest dne utcredam ineum etdixit,it quisest dne utcredam ineum etdixit,it quisest dne utcredam ineum etdixit,
+321v,17,ei ihs etuidistieum etquiloquiturtecu,ei ihs etuidistieum etquiloquiturtecum,ei ihs etuidistieum etquiloquiturtecu,3-shaped m sign at the line end not typed
+321v,18,ipse est atilleait credodne etprocedens,ipse est atilleait credodne etprocedens,ipse est atilleait credodne etprocedens,
+331r,1,,,<none>,decoration (dots)
+331r,2,en amen dicouobis quiaccipit,en amen dicouobis quiaccipit,en amen dicouobis quiaccipit,
+331r,3,siquem misero meaccipit qui,siquem misero meaccipit qui,siquem misero meaccipit qui,
+331r,4,autem meaccipit accipit eum quimemi,autem meaccipit accipit eum quimemi,autem meaccipit accipit eum quimemi,
+331r,5,,,<none>,decoration (dot clusters)
+331r,6,,,<none>,decoration (dots)
+331r,7,haecdixisset ihsturbatusest s,haecdixisset ihsturbatusest s,haecdixisset ihsturbatusest s,
+331r,8,etprotestatusest dixitamen amen,etprotestatusest dixitamenamen,etprotestatusest dixitamen amen,clear gap between the two amen
+331r,9,dicouobis quiaunus exuobismetrade,dicouobis quiaunus exuobismetradet,dicouobis quiaunus exuobismetrade,final t not in the image; the e's drawn-out tongue at the edge
+331r,10,piciebant ergo seadinuicem dis,piciebant ergo seinuicem dis,piciebant ergo seadinuicem dis,ad written between se and inuicem
+331r,11,cipuli hesitantes dequo diceret,cipuli hesitantes dequo diceret,cipuli hesitantes dequo diceret,
+331r,12,atergo recumbens unus exdiscipu,atergo recumbens unus exdiscipu,atergo recumbens unus exdiscipu,
+331r,13,?ius insinu ihu quem diligebat ihs,lis insinu ihu quemdiligebatihs,?ius insinu ihu quemdiligebatihs,e of eius cut by the left edge; no gap wider than between letters in quemdiligebatihs
+331r,14,,,<none>,decoration
+331r,15,innuit ergo huicsimon petrus etdicitei,innuit ergohuic simon petrus etdicitei,innuit ergohuicsimon petrus etdicitei,ergo touches huic; no visible gap before simon
+331r,16,quisestdequo dicit itaque cumrecubu,quisest dequo dicit itaque cumrecubu,quisest dequo dicit itaque cumrecubu,clear gap under the drawn-out t-bar of est
+331r,17,isset ille suprapectus ihu dicitei dne.,isset ille suprapectus ihu dicit ei dne,isset ille suprapectus ihu dicitei dne,no dot after dne; no gap wider than between letters before ei
+331r,18,quisest :· #espondit ihs illeest cui,quisest :· #espondit ihs illeest cui,quisest :· #espondit ihs illeest cui,
+331r,19,ego intinctum panem porrexero,ego intinctum panem porrexero :,ego intinctum panem porrexero :·,"three dots after a gap, no stroke or ornament"
+331r,20,cumintincxisset panem dedit,cumintinxisset panem dedit,cumintinxisset panem dedit,"the c-bowl with a descender is the x itself, as in exuobis on line 9 (GPT blind look unclear)"
+331r,21,,,<none>,decoration
+331r,22,iudae simoni scariothis etp,iudae simonis scariothis etp,iudae simoni scariothis etp,no s after simoni; the s begins scariothis
+331r,23,,,<none>,page number
+331r,24,,the board of,<none>,Trinity's printed caption
+331r,25,,trinity,<none>,Trinity's printed caption
+331r,26,,college dublin,<none>,Trinity's printed caption
+331r,27,,du,<none>,Trinity's printed caption
+127v,1,,xxviii,<none>,"chapter number XXVIII, not the text; left empty as a page number is"
+127v,2,sabbati quaelucescit,sabbati quaelucescit,sabbati quaelucescit,
+127v,3,inprima sabbati uenit maria,inprima sabbati uenit maria,inprima sabbati uenit maria,
+127v,4,magdalene etaltera maria uide,magdalene etaltera maria uide,magdalene etaltera maria uide,
+127v,5,re sepulchrum etecce terrae no,re sepulchrum etecce terrae mo,re sepulchrum etecce terrae no,two stems joined by one arch: n (GPT blind look read m; the image shows n)
+127v,6,tus factus est magnus angelus,tus factusest magnusangelus,tus factus est magnus angelus,visible gaps before est and before angelus
+127v,7,enim dni decaelo discendit etac,enim dni decaelo discendit. etac,enim dni decaelo discendit etac,no dot after discendit
+127v,8,cedens reuoluit lapidem etsede,cedens reuoluit lapidem etsede,cedens reuoluit lapidem etsede,
+127v,9,bat supereum · #rat autem as,bat supeream · #rat autem as,bat supereum · #rat autem as,u of supereum: two minims
+127v,10,pectus eius sicut fulgor #uesti,pectus eius sicut fulgor # uesti,pectus eius sicut fulgor #uesti,the decorated et touches uesti
+127v,11,mentum eius candidum sicut nix ·,mentum eius candidum sicut nix ·,mentum eius candidum sicut nix ·,
+127v,12,#ra?timore autem eius exterrit,#raetimore autem eius exterriti,#raetimore autem eius exterriti,tall stroke after a read as e (GPT blind look: ae); final ti faint at the edge
+127v,13,unt custodes · #facti sunt uel,unt custodes · #factisunt uel,unt custodes · #factisunt uel,no gap wider than between letters before sunt
+127v,14,,,<none>,line-filling ornament and dots
+127v,15,motu?,mortui,motu?,"no r visible; last glyph two stems under a bar, unreadable (GPT blind look: mortui)"
+127v,16,#spondens autem an,#espondens autem an,#spondens autem an,R's frame and the enlarged purple e are one decorated initial (#)
+127v,17,,,<none>,page number
+127v,18,,the board of trinity college dublin,<none>,Trinity's printed caption
+126r,1,apparuerunt,apparuerunt,apparuerunt,
+126r,2,nturio autem etqui cum eo,torio autem etqui cum eo,?torio autem etqui cum eo,a single stroke of the previous letter at the left edge; the next round letter is o
+126r,3,erant custodientes ihm uiso,erant custodientes ihm uiso,erant custodientes ihm uiso,
+126r,4,terrae motu ethis quaefiebant,terrae motu ethis quaefiebant,terrae motu ethis quaefiebant,
+126r,5,timuerunt ualde dicentes uere,timuerunt ualde dicentes uere,timuerunt ualde dicentes uere,
+126r,6,di erat filius iste :·,di erat filius iste :·,di erat filius iste :·,
+126r,7,,,<none>,decoration
+126r,8,#ant autem ibi mulieres mul,#ant autem ibi mul,#ant autem ibi mulieres mul,mulieres written before mul
+126r,9,tae alonge uidentes quae,tae alonge uidentes quae,tae alonge uidentes quae,
+126r,10,saecutae fuerant ihm agalilea,secutae fuerant ihm agalilea,saecutae fuerant ihm agalilea,a between s and e
+126r,11,ministrantes illi · interquas erat,ministrantes illi :· interquas erat,ministrantes illi :· interquas erat,three black dots after a gap
+126r,12,maria magdalenae etmaria,maria magdalene etmaria,maria magdalenae etmaria,a before the final e
+126r,13,iacobi etioseph etmater filio,iacobi etioseph etmater filio,iacobi etioseph etmater filio,
+126r,14,rum sebaedei :·,rum sebedei :· :·,rum sebaedei :·,a before e; further faint marks are show-through and line filling
+126r,15,#mautem sero factum esset,#um autem sero factum esset,#mautem sero factum esset,bowl plus arch after the initial is uncial m; no gap before autem (GPT blind look unclear)
+126r,16,,,<none>,decoration
+126r,17,uenit quidam homo diues,uenit quidam homo diues,uenit quidam homo diues,
+126r,18,abarimathia nomine ioseph :·,abarimathia nomine ioseph :·,abarimathia nomine ioseph :·,
+126r,19,#ui etipse discipulus erat ihu,qui etipse discipulus erat ihu,#ui etipse discipulus erat ihu,q enlarged with a colour-filled bowl
+126r,20,,,<none>,"faint numbers, not the scribe's text"
+126r,21,,,<none>,page number
+126r,22,,,<none>,Trinity's printed caption
+126r,23,,,<none>,Trinity's printed caption
+212v,1,nomen uestrum tamquam malum,nomen uestrum tamquam malum,nomen uestrum tamquam malum,
+212v,2,propterfilium hominisgaudete inilla,propterfilium hominis gaudete inilla,propterfilium hominisgaudete inilla,no visible gap between hominis and gaudete
+212v,3,die #exultate ecce enim mercisues,die #exultate ecce enim mercesues,die #exultate ecce enim mercisues,"after c a straight stroke, no e tongue: i"
+212v,4,tra multaest incaelo · secundumhaec,tra multaest incaelo· secundumhaec,tra multaest incaelo · secundumhaec,point with a gap each side
+212v,5,enim faciebant profetis patreseo,enim faciebant profetaspatreseo,enim faciebant profetas patreseo,two-bowled a after t; gap before patres
+212v,6,rum :· #erumtamen uaeuobisdi,rum:· #erumtamen uaeuobisdi,rum :· #erumtamen uaeuobisdi,three dots after a gap
+212v,7,uitibus quihabetis consulationem,uitibus quihabetis consolationem,uitibus quihabetis consulationem,u after s (two strokes joined below)
+212v,8,uestram · #aeuobis quisaturati estis,uestram· #aeuobis quisaturatiestis,uestram · #aeuobis quisaturati estis,point with a gap each side; gap before estis
+212v,9,quiaesurietis · #aeuobis quiriditis,quiesuritis· #aeuobis quiridetis,quiaesurietis · #aeuobis quiriditis,a after qui; e joined to the t-bar then the ti curve; i after d
+212v,10,nunc quia lugebitis etflebitis :·,nunc quialugebitis etflebitis:·,nunc quialugebitis etflebitis :·,quia touches lugebitis; three dots after a gap
+212v,11,,,<none>,decoration (drawn feet)
+212v,12,#cumbene uobis dixerint omnes,# cumbene uobis dixerint omnes,#cumbene uobis dixerint omnes,the initial's tongue runs into cum
+212v,13,homines secundum haec faciebant,homines secundum haec faciebant,homines secundum haec faciebant,
+212v,14,seodo profetis patres eorum :·,seudo profetas patres eorum :·,seodo profetas patres eorum :·,round o after e; two-bowled a in profetas
+212v,15,#eduobis dico quiauditis dilegite,#uobis dico quiauditis diligite,#eduobis dico quiauditis dilegite,ed after the initial; e with a tongue in dilegite
+212v,16,inimicos uestros benefacite hisqui,inimicos uestros benefacite hisqui,inimicos uestros benefacite hisqui,
+212v,17,uos oderunt · #enedicite maledi,uos oderunt· #enedicite maledi,uos oderunt · #enedicite maledi,point with a gap each side
+212v,18,centibus uobis orate procalumni,centibus uobis orate procalumni,centibus uobis orate procalumni,
+212v,19,,,<none>,page number
+67r,1,dierunt etaudire quaeauditis etnonau,derunt etaudire quaeauditis etnonaui,dierunt etaudire quaeauditis etnonau,a minim between the d and e; nothing after au at the line end
+67r,2,derunt,derunt,derunt,
+67r,3,sautem auditeparabulam semi,s autem auditeparabulam semi,sautem auditeparabulam semi,s touches autem
+67r,4,nantis omnis quiaudit uerbumregni,#antis omnis quiaudit uerbum regni,nantis omnis quiaudit uerbumregni,decoration at the left edge belongs to an initial above; no gap wider than between letters before regni
+67r,5,#nonintellegit uenit malignus etrapit,etnonintellegit uenit malignus etrapit,#nonintellegit uenit malignus etrapit,enlarged et with colour fill
+67r,6,illudquodseminatumest incorde eius,illud quodseminatumest incorde eius:·,illudquodseminatumest incorde eius,dots after eius are line filling
+67r,7,#icest quisecusuiam seminatus est :·,#icest quisecusuiam seminatus est :·,#icest quisecusuiam seminatus est :·,
+67r,8,#uiautem suprapetrosa. seminatusest ·,#uiautem suprapetrosa seminatusest,#uiautem suprapetrosa. seminatusest,one dot on the line after petrosa; the mark by the rosette is decoration
+67r,9,#icest quiaudit uerbum etcontinuo,#icest quiaudit uerbum etcontinuo,#icest quiaudit uerbum etcontinuo,
+67r,10,cumgaudio accipit illud nonhabet au,cumgaudio accipit illudnonhabet au,cumgaudio accipit illudnonhabet au,no gap wider than between letters before non
+67r,11,tem inse radicemsedtemporalis est,tem inse radicemsedtemporalis est,tem inse radicemsedtemporalis est,
+67r,12,factaautem tribulatione acpersecuti,factaautemtribulatione autpersecuti,factaautem tribulatione acpersecuti,gap before tribulatione; a with two bowls then c
+67r,13,one propteruerbum continuoscanda,one propteruerbum continuoscanda,one propteruerbum continuoscanda,
+67r,14,lizatur :· :· #uiautem seminatusest,lizatur: :· #uiautem seminatusest,lizatur :· :· #uiautem seminatusest,"two three-dot groups, the first grey"
+67r,15,inspinis hicest quiuerbum audit etsol,inspinis hicest quiuerbum audit etsol,inspinis hicest quiuerbum audit etsol,
+67r,16,licitudo saeculi istius etfallacia diuiti,licitudo saeculi istius etfallacia diuiti,licitudo saeculi istius etfallacia diuiti,
+67r,17,arum suffocant uerbum etsinefructu,arum suffocat uerbum etsinefructu,arum suffocant uerbum etsinefructu,two stems after a: n
+67r,18,,,<none>,page number
+67r,19,,,<none>,Trinity's printed caption
+67r,20,,,<none>,Trinity's printed caption
+121v,1,,,<none>,blank sliver
+121v,2,enim passusum odie perujsum,enim passusum odie peruisum,enim passusum odie peruysum,"the tailed letter after u is the y of pylatus (126v, key)"
+121v,3,proptereum,proptereum,proptereum,
+121v,4,rincipes autem · sacerdotum,#incipes autem sacerdotum,#incipes autem · sacerdotum,"r enlarged, coloured and ringed with red dots; the speck after autem is not a dot; once-over: was '#incipes autem sacerdotum' (zoomed: a distinct round dot at mid-height between autem and sacerdotum)"
+121v,5,etseniores persuaserunt po,#seniores persuaserunt po,etseniores persuaserunt po,"enlarged et, not coloured or ringed"
+121v,6,pulis utpeterent barban ihmue,pulis utpeterent barban ihm ue,pulis utpeterent barban ihmue,no gap wider than between letters before ue
+121v,7,ro perderent,ro perderent :·,ro perderent,dots after the line-filling stroke are decoration
+121v,8,espondens autem praesis ait,#spondens autem praeses ait,#spondens autem praesis ait,e coloured and ringed with red dots; i between the two s of praesis
+121v,9,illis quemuultis uobis deduobus,#llis quemuultis uobis deduobus,illis quemuultis uobis deduobus,the dots at the left edge belong to the initial above
+121v,10,dimittam atilli dixerunt baraban,dimittam atilli dixerunt baraban,dimittam atilli dixerunt baraban,
+121v,11,,,<none>,decoration
+121v,12,icitillis pjlatus quidigitur,#itillis pilatus quidigitur,#citillis pylatus quidigitur,tall I ringed with red dots; ci and ti both a-shaped; y as in pylatus on 126v
+121v,13,faciam deihu quidiciturxps,faciam deihu quidiciturxps,faciam deihu quidiciturxps,
+121v,14,#icuntomnes crucifigatur,#icuntomnes crucifigatur,#icuntomnes crucifigatur,
+121v,15,tillis praeses quid enim,aitillis praeses quidenim,#tillis praeses quid enim,cut edge of the decorated A of Ait at the left; then the a-shaped ti; gap before enim
+121v,16,mali fecit · #tilli magis clama,mali fecit· #tilli magis clama,mali fecit · #tilli magis clama,dot after a gap under the t-bar
+121v,17,u erunt dicentes crucifigatur,uerunt dicentes crucifigatur·,uerunt dicentes crucifigatur,no gap wider than between letters after u; no dot at the line end
+121v,18,dens autem pjlatus quia,dens autem pilatus quia,dens autem pylatus quia,y as in pylatus on 126v
+121v,19,nihil proficere sedmagis,nihil proficeret sedmagis,nihil proficere sedmagis,"drawn-out e-tongue, no t"
+121v,20,,,<none>,page number
+121v,21,,,<none>,Trinity's printed caption
+121v,22,,,<none>,Trinity's printed caption
+121v,23,,,<none>,Trinity's printed caption
+89v,1,ego bibiturus sum dicunt ei possumus·,ego bibiturus sum dicunt ei possumus,ego bibiturus sum dicunt ei possumus·,"final s written above the line, raised dot beside it"
+89v,2,#t illis ihs ca licem quiden,#icit illis ihs ca licem quidem,#t illis ihs ca licem quiden,A ringed with red dots; the hole in the parchment leaves a gap in calicem; two uprights before the loop: n (GPT blind look: n)
+89v,3,meum bibetis · #edere aute m ad,meum bibetis· sedere autem ad,meum bibetis · #edere aute m ad,dot with a gap each side; S colour-filled; the hole in the parchment between e and m leaves a visible gap
+89v,4,dexteram meam aut adsinistram,dexteram meam aut adsinistram,dexteram meam aut adsinistram,
+89v,5,nonest meum dare uobis· #edqui,nonest meumdare uobis:· #edqui,nonest meumdare uobis· #edqui,"no gap wider than between letters before dare; the black dot touches s, the red dots are decoration"
+89v,6,quibus paratum est apatre meo ·,quibus paratum est apatre meo,quibus paratum est apatre meo ·,black dot after a gap; red dots and stroke after it are line filling
+89v,7,dientes illi·x· indignati,dientes illi:·x:· indignati,dientes illi·x· indignati,black points either side of x; the red dots are decoration
+89v,8,sunt deduobus fratrib ·,sunt deduobus fratrib,sunt deduobus fratrib,"the colon-shaped sign after b is the -bus mark, not typed; red dots after it are line filling"
+89v,9,,,<none>,decoration
+89v,10,,,<none>,decoration
+89v,11,s autem uocauit eos adse,s autem uocauit eos adse,s autem uocauit eos adse,
+89v,12,,,<none>,decoration
+89v,13,,,<none>,decoration
+89v,14,?at scitis quiaprincipes gentiu,ait scitis quiaprincipesgentiu,ait scitis quiaprincipes gentiu,"cut et at the left edge; the stroke between a and t unreadable (GPT blind look: aut); nasal sign after u not typed; once-over: was '?a?t scitis quiaprincipes gentiu' (the clipped bowl and the next are the two bowls of a, the stroke is i: ait; the gap before gentiu stays)"
+89v,15,dominantur eorum #quimaores,dominantur eorum #quimaiores,dominantur eorum #quimaores,no i between a and o
+89v,16,sunt potestatem exercent ineos ·,sunt potestatem exercent ineos,sunt potestatem exercent ineos,the dots after eos sit in a rosette: decoration
+89v,17,#on itaerit interuos sedquicumq,#onitaerit interuos sedquicumq,#onitaerit interuos sedquicumq,o colour-filled but not enlarged; no gap wider than between letters after on
+89v,18,uoluerit interuos maor fieri sit,uoluerit interuos maior fieri sit,uoluerit interuos maor fieri sit,no i between a and o
+89v,19,uester minister #quiuoluerit in,uester minister #quiuolueritin,uester minister #quiuolueritin,no gap wider than between letters before in
+89v,20,teruos primus esse erit uester,teruos primus esseerit uester,teruos primus esse erit uester,gap under the drawn-out e-tongue
+89v,21,,,<none>,"faint dots showing through, no text"
+89v,22,,,<none>,decoration (dots)
+89v,23,,,<none>,decoration
+89v,24,seruus,seruus,seruus,
+89v,25,,,<none>,page number

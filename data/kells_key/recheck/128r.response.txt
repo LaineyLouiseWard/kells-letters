@@ -1,0 +1,22 @@
+01	OK
+06	FLAG	? uidete locum ubi possitus eratdns	the second t has a visible top bar and curved stem
+08	OK
+10	OK
+11	FLAG	it uobis	short upright i before the long-barred t
+13	OK
+14	OK
+15	OK
+16	OK
+17	OK
+19	OK
+20	FLAG	#unc ait illis ihs #olite timere sedite	tall curved s before edite
+21	OK
+22	OK
+23	FLAG	ibi me uidebunt :· #uae ??? abissent . ecce	low full stop after abissent
+25	OK
+26	OK
+27	OK
+
+[thread id: 01a1a363-222b-73a2-b340-07bca7074a6a]
+
+[gpt-6.1-sol: 23,461 in + 6,889 out tokens, ChatGPT plan (no API credit)]

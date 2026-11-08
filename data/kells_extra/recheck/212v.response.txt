@@ -1,0 +1,17 @@
+02	OK
+03	OK
+04	OK
+05	FLAG	enim faciebant profetis patreseo	After e, joined ti has one curve beneath the t-bar, with i as its right stroke.
+06	OK
+07	OK
+08	OK
+09	OK
+10	OK
+12	OK
+14	FLAG	seodo profetis patres eorum :·	After e, joined ti has one curve beneath the t-bar, with i as its right stroke.
+15	OK
+17	OK
+
+[thread id: 01a1a5ec-0f0c-7ec1-8efc-4794710bcca2]
+
+[gpt-6.1-sol: 22,976 in + 3,743 out tokens, ChatGPT plan (no API credit)]

@@ -1,0 +1,18 @@
+02	hominisgaudete	s|g gap only 6-10 px, typed together under "Spaces only where the scribe left a visible gap"
+02	inilla	e-tongue of gaudete drawn to "in" (gap kept: "A letter stroke drawn out along the line ... is not a hyphen"); n|i of inilla run together
+03	#exultate	enlarged coloured et-shaped initial typed # ("A decorated initial ... is #, whatever its letter, a decorated et included")
+03	mercisues	c + upright read as c then i (no two-bowl a: "The real a in Kells has two bowls"); s|u gap 3 px, run together
+04	secundumhaec	c of haec written above the e; typed in reading order ("Type what that image holds")
+04	multaest	a|e no visible gap, run together
+05	profetis	ti read as the c-shaped ti ligature under the t bar ("is 'ti' ... looks like the letter a")
+05	patreseo	s|e gap 8 px, typed together; may be a word space
+06	uaeuobisdi	u|a gap 12 px and s|d 8 px, typed together; uae|uobis may be a space
+07	quihabetis	i|h gap 12 px, run together; ti ligature read in uitibus, habetis, consulationem
+09	quiriditis	no e between d and i is visible (Abbott ridetis): "When the image and Abbott disagree, the image wins"
+12	#cumbene	enlarged coloured G/et-shaped initial typed #; red-dotted sliver at the left edge not typed ("dots ringing an initial, are decoration")
+12	dixerint	second-last vowel read as i
+15	#eduobis	initial S mostly outside the image, only its coloured edge shows; typed # ("A letter cut by the edge ... is typed if it can be read")
+15	dilegite	i|l gap 14 px, typed together; e after l read as e not i
+17	oderunt ·	mid-height dot under the t bar typed as raised dot ("a raised dot is ·"), not decoration
+18	centibus	ti ligature read ("t then i written as one c-shaped curve under the t's flat top bar")
+18	procalumni	o|c gap 10 px, run together

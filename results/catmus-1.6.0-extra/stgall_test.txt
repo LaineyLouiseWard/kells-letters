@@ -1,0 +1,127 @@
+copied from data/models/kraken16/best_0.9856.safetensors: the St Gall model of the chosen reader (3 Nov 2026, trained without ketos -r), so this run differs from it only by the extra pages
+md5 326a6ea675661ec9ce0bb6b1958de495 /home/lainey/.local/share/kells-models/catmus-1.6.0/catmus-medieval-1.6.0.mlmodel
+md5 ceeb849d5a410a7eef0232d3029f50e3 data/models/kraken16/best_0.9856.safetensors
+md5 0f24fe9c6f0b99923fb12c0825d161d3 data/xml/stgall/test.kraken.arrow
+md5 f3c0a7fae3504dfb9ea07092365f9894 data/xml/stgall/train.kraken.arrow
+md5 9c24e0ffd62647fb8fb24e3a1a2dbd44 data/xml/stgall/val.kraken.arrow
+md5 ceeb849d5a410a7eef0232d3029f50e3 data/runs/catmus-1.6.0-extra/stgall/best.safetensors
+md5 0f24fe9c6f0b99923fb12c0825d161d3 data/xml/stgall/test.kraken.arrow
+commit fe53adf
+Loading from data/runs/catmus-1.6.0-extra/stgall/best.safetensors.
+Testing ━━━━━━━━━━━━━━━━━ 540/540 0:00:09 • 0:00:00 55.17it/s  early_stopping:  
+                                                               0/10 -inf        
+=== report  ===
+
+29049	Characters
+371	Errors
+98.72%	Character Accuracy
+98.72%	Character Accuracy (Case-insensitive)
+92.39%	Word Accuracy
+
+126	Insertions
+142	Deletions
+103	Substitutions
+
+Count	Missed	%Right
+23803	131	99.45%	Latin
+5246	114	97.83%	Common
+
+Errors	Correct-Generated
+86	{ SPACE } - {  }
+69	{  } - { SPACE }
+18	{ i } - {  }
+12	{ ÷ } - { e }
+11	{ e } - { ÷ }
+9	{  } - { · }
+7	{  } - { e }
+6	{  } - { i }
+6	{  } - { m }
+6	{  } - { n }
+5	{ t } - {  }
+5	{  } - { r }
+5	{ u } - { a }
+4	{ · } - {  }
+4	{ e } - {  }
+4	{ z } - { r }
+4	{  } - { t }
+4	{ m } - { i }
+3	{  } - { o }
+3	{ s } - {  }
+3	{ l } - { t }
+3	{ u } - {  }
+3	{ n } - {  }
+3	{ SPACE } - { e }
+2	{ ę } - { e }
+2	{ m } - {  }
+2	{ i } - { h }
+2	{  } - { s }
+2	{ e } - { i }
+2	{ a } - { u }
+2	{ l } - {  }
+2	{ ÷ } - {  }
+2	{  } - { a }
+2	{ a } - {  }
+2	{ , } - {  }
+2	{ d } - {  }
+2	{ o } - {  }
+2	{ b } - { r }
+2	{ c } - { t }
+1	{ t } - { c }
+1	{ r } - { e }
+1	{  } - { ⧺ }
+1	{ i } - { n }
+1	{ a } - { c }
+1	{  } - { l }
+1	{  } - { u }
+1	{ l } - { d }
+1	{ s } - { r }
+1	{ d } - { e }
+1	{ i } - { l }
+1	{ o } - { t }
+1	{  } - { c }
+1	{ m } - { n }
+1	{ s } - { t }
+1	{ n } - { h }
+1	{ n } - { t }
+1	{ n } - { m }
+1	{ a } - { o }
+1	{ a } - { æ }
+1	{ u } - { l }
+1	{ u } - { m }
+1	{ l } - { c }
+1	{ a } - { t }
+1	{ r } - { s }
+1	{ i } - { o }
+1	{ . } - { · }
+1	{ p } - { r }
+1	{ y } - { s }
+1	{ g } - { t }
+1	{ s } - { g }
+1	{ a } - { i }
+1	{ r } - { n }
+1	{ c } - { l }
+1	{  } - { : }
+1	{ n } - { u }
+1	{ l } - { b }
+1	{ i } - { a }
+1	{ c } - { r }
+1	{ r } - { SPACE }
+1	{ a } - { n }
+1	{ · } - { e }
+1	{ SPACE } - { l }
+1	{ r } - {  }
+1	{ i } - { u }
+1	{ t } - { o }
+1	{ SPACE } - { r }
+1	{ x } - {  }
+1	{ q } - { e }
+1	{ SPACE } - { u }
+1	{ i } - { SPACE }
+1	{ u } - { i }
+1	{ x } - { c }
+1	{ c } - { e }
+1	{ e } - { SPACE }
+1	{  } - { x }
+1	{  } - { d }
+1	{ t } - { b }
+

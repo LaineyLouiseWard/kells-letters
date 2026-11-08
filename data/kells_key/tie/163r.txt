@@ -1,0 +1,26 @@
+01	line 3	x 1150-1548
+02	line 9	x 120-640
+03	line 10	x 200-760
+04	line 10	x 1250-1700
+05	line 15	x 700-1150
+06	line 16	x 600-1250
+07	line 18	x 650-1581
+08	line 7	x 1250-1700
+
+GPT:
+01	usolimaet
+01 note	final a and et difficult
+02	interficient e
+02 note	initial i partly cut
+03	#ccidunt a
+03 note	i after cc uncertain
+04	?us ?
+04 note	left edge and faded final letter
+05	uamus to?
+05 note	first and final letters cut
+06	tosinistram se
+06 note	initial to and middle str difficult
+07	is potestis bibere calic
+07 note	final calic faint
+08	?a ego
+08 note	left edge and a uncertain

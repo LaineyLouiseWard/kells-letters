@@ -1,0 +1,13 @@
+01		Roman numeral XXVIII (chapter number in capitals, first X cut by the edge) left empty as a number, like a page or folio number: "An image with no text (a sliver of a letter, only decoration, a page or folio number) is left empty."
+04	etaltera maria	gap between altera and maria is narrow (about 10 px, the a's tail runs into it); typed a space: "Spaces only where the scribe left a visible gap"
+05	no	first letter has only two stems joined by one arch (n), where motus needs m; typed as seen: "the image wins"
+05	re sepulchrum	words bridged by the drawn-out e-tongue, typed as a space: "A letter stroke drawn out along the line (a long t-bar or e-tongue) is not a hyphen"
+07	discendit	second d is a bowl whose ascender is bent flat to the left under the t's long bar; the stroke after it read as i
+10	fulgor	faint grey strokes after the R (under the decorated et's swash) look like erased letters or show-through; not typed
+10	#uesti	last glyph is a c-shaped curve under a flat top bar with a right-hand stroke, typed ti: "t then i written as one c-shaped curve under the t's flat top bar ... is 'ti'"
+12	#ra?timore	tall stroke between a and the ti ligature, rising above the line and leaning left; letter unreadable (prae expects e)
+12	exterrit	final t is faint and cut by the image edge; it may be the ti ligature (exterriti)
+13	unt	s of sunt lies left of the image; u is cut by the edge but readable: "A letter cut by the edge of the line image is typed if it can be read"
+15	motu?	faint line: m, o clear; t has a raised serif and no r is visible; u faint; last glyph is two thick stems under a flat bar (n, ii or ui); text expects mortui
+16	#spondens	# is the purple-filled, enlarged e ("A decorated initial (enlarged and coloured, or ringed with red dots) is #, whatever its letter"); the two stacked orange-filled loops read as s; the frame of the large R initial at the left edge is decoration, not typed
+16	an	n is cut by the image edge

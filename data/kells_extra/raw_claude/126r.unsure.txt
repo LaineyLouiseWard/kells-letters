@@ -1,0 +1,8 @@
+02	nturio	line starts mid-word; the Ce of centurio lies left of the image
+08	#ant	R is colour-filled and ringed with red dots, so #: "A decorated initial (enlarged and coloured, or ringed with red dots) is #, whatever its letter"; the large E initial lies left of the image
+13	filio	first i (between f and l) is faint
+15	#mautem	# is the body of the large initial at the left edge; the next letter has a colour-filled bowl but is near text size, typed m (uncial form, bowl plus arch); no gap before autem
+19	#ui	q is enlarged with a colour-filled bowl, so #: "A decorated initial (enlarged and coloured, or ringed with red dots) is #"
+19	etipse	& form typed et ("The et shaped like & ... is e and t joined: type 'et'"); the i after it descends below the line
+19	erat ihu	about 35 px gap under the t's drawn-out bar, typed a space; the h's shoulder is drawn as a long coloured loop (abbreviation stroke), not typed
+20		faint pencil marks only (modern numbering), left empty as a page number

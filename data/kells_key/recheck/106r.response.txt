@@ -1,0 +1,14 @@
+01	OK
+03	OK
+04	OK
+06	FLAG	turus est :·	Three separate dots after est.
+08	FLAG	i sciret paterfamilias qua ho	No gap between the final r of pater and the f of familias.
+09	OK
+11	OK
+14	OK
+17	OK
+21	FLAG	utdet illis cibum intempore :·	Three separate dots after the terminal ornament.
+
+[thread id: 01a1a363-225e-72b1-97ba-b55e84fefe05]
+
+[gpt-6.1-sol: 22,856 in + 4,603 out tokens, ChatGPT plan (no API credit)]

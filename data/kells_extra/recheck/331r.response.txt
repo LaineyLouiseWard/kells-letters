@@ -1,0 +1,18 @@
+08	FLAG	etprotestatusest dixitamenamen	No visible gap between the two amens.
+09	FLAG	dicouobis quiaunus exuobismetradet	Final t is visible at the right edge.
+10	OK
+13	OK
+15	FLAG	innuit ergohuic simon petrus etdicitei	Visible gap after huic.
+16	OK
+17	OK
+19	OK
+20	OK
+22	OK
+24	FLAG	the board of	Printed words “The Board of” are visible.
+25	FLAG	trinity	Printed word “Trinity” is visible.
+26	FLAG	college dublin	Printed words “College Dublin” are visible.
+27	FLAG	du	Clipped but readable printed D and u.
+
+[thread id: 01a1a5ec-0fda-72e2-ade9-6a63719fd8a5]
+
+[gpt-6.1-sol: 22,038 in + 3,352 out tokens, ChatGPT plan (no API credit)]

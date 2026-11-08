@@ -1,0 +1,23 @@
+03	meaccipit	16px between me and accipit, no space typed per "Spaces only where the scribe left a visible gap"
+04	meaccipit	16px between me and accipit, no space typed
+04	quimemi	final i at the image edge; typed per "A letter cut by the edge of the line image is typed if it can be read"
+07	ihsturbatusest s	no visible gap between ihs and turbatus; the p of sp(iritu) lies beyond the image edge, only s typed
+09	exuobismetrade	final t not in the image: e with drawn-out tongue at the edge; "A letter stroke drawn out along the line ... is not a hyphen"
+10	piciebant	p cut at the left edge but readable; As of Aspiciebant outside the image
+12	atergo	first bowl of a has an orange infill but is not enlarged; typed a per "An enlarged letter that is not decorated is typed as its letter"
+13	?ius	e of eius cut by the left edge, only a sliver: "A letter you cannot read is ?"
+15	petrus	written in display capitals; typed per "Letters in lower case, as written"
+15	huicsimon	no visible gap between huic and simon
+16	quisestdequo	t-bar of est drawn out to d with about 17px below it; no space typed
+16	cumrecubu	15px between cum and recubu, no space typed
+17	dicitei	ei: e + slanted minim could also be read as a
+17	dne.	dot on the line after dne could be decoration
+18	ihs illeest	15px between ihs and ille typed as a space; ille and est touch
+19	porrexero	letter after x is round with a faint tongue: e, could be c
+20	cumintincxisset	c-shaped bowl before the x's descender read as a separate c (x elsewhere on this page is descender + one curve); could be part of the x
+20	cumintincxisset	first c has a coloured infill but is not enlarged: typed c, not #
+20	cumintincxisset	final et is the e+t ligature with a drawn-out bar, per "The et shaped like & ... type 'et'"
+20	dedit	ink very faded: d e d read from bowl shapes and one ascender, i and t faint
+22	scariothis	t (c-bowl under a flat top bar) + h (tall stem and leg); could be read as a round d
+22	etp	slightly enlarged undecorated E joined to t, typed et per "An enlarged letter that is not decorated is typed as its letter"; p at the stitched page edge
+24		images 24 to 27 hold the photographer's modern copyright line, not the scribe's text; left empty

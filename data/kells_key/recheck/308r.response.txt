@@ -1,0 +1,21 @@
+02	OK
+03	OK
+04	OK
+05	OK
+06	OK
+07	OK
+09	OK
+10	OK
+11	OK
+12	FLAG	nt ei rabbi quando uenistihuc :· #espo	The image ends after o; no readable n.
+13	OK
+14	OK
+15	OK
+16	OK
+17	OK
+18	FLAG	quemfilius hominis uobis dabit :· #unc	The n’s uprights and joining stroke are visible.
+20	OK
+
+[thread id: 01a1a360-4d9c-7bb3-9241-4ecfd6f2f064]
+
+[gpt-6.1-sol: 25,696 in + 4,249 out tokens, ChatGPT plan (no API credit)]

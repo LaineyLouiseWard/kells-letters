@@ -1,0 +1,10 @@
+01	adsumetur	faint ring at the left edge not typed (show-through or dot ring)
+03	relinq:tur:·	two square dots after q, mid-word (q: abbreviation sign?); end dots may be four, last cut by the image edge
+04	?ilate	coloured g cut by the left edge, only the right half of its filled bowl shows
+04	quianescitisqua	a written above the line after qu; no clear gap between scitis and qua
+07	autem	first a partly cut by the left edge
+08	i	s of si lies outside the image, only a sliver at the left edge, not typed
+14	qu?	letter after qu is a crossbar to a tall stem, like n or l; expected a
+17	fidelisser	gap between fidelis and ser very small
+21	utdetillis	et written as the G-shaped sign, its faint tail joins illis; no clear gap
+21	cibum	i after c drawn with a long curved descender

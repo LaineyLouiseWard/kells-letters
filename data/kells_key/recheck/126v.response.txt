@@ -1,0 +1,17 @@
+01	OK
+02	OK
+03	FLAG	dari corpus :·	Three dots after corpus.
+06	OK
+07	OK
+09	FLAG	ostium monumenti etabit :·	After ostium, m begins directly; three dots after etabit.
+11	OK
+12	FLAG	tes contra saepulchrum :· :· :·	Three separate groups of three dots.
+13	OK
+14	FLAG	postparasceuen conuene	No visible gap between post and parasceuen.
+16	OK
+19	OK
+20	OK
+
+[thread id: 01a1a363-2245-7243-bc2f-93ff0f0349ab]
+
+[gpt-6.1-sol: 23,252 in + 2,716 out tokens, ChatGPT plan (no API credit)]

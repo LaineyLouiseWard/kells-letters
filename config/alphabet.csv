@@ -1,0 +1,39 @@
+char,codepoint,stands_for,times_in_train_lines,times_in_other_lines,example
+a,U+0061,the letter a,17970,1318,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+b,U+0062,the letter b,4474,372,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+c,U+0063,the letter c,9863,671,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+d,U+0064,the letter d,9706,651,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+e,U+0065,the letter e,30354,2123,St Gall page 4 line 2: autem genuit issac issac autem ge
+f,U+0066,the letter f,2473,165,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+g,U+0067,the letter g,2627,196,St Gall page 4 line 2: autem genuit issac issac autem ge
+h,U+0068,the letter h,2972,241,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+i,U+0069,the letter i,32088,2268,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+l,U+006C,the letter l,7534,498,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+m,U+006D,the letter m,13801,961,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+n,U+006E,the letter n,16267,1118,St Gall page 4 line 2: autem genuit issac issac autem ge
+o,U+006F,the letter o,12449,847,St Gall page 4 line 3: nuit iacob :- iacob genuit iudam et
+p,U+0070,the letter p,5921,418,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+q,U+0071,the letter q,3855,263,St Gall page 4 line 14: ex ea quae fuit uriae salam on
+r,U+0072,the letter r,12474,835,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+s,U+0073,the letter s,19419,1328,St Gall page 4 line 2: autem genuit issac issac autem ge
+t,U+0074,the letter t,24191,1694,St Gall page 4 line 2: autem genuit issac issac autem ge
+u,U+0075,the letter u,22086,1551,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+x,U+0078,the letter x,1593,98,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+y,U+0079,the letter y,6,2,St Gall page 98 line 25: lier gentilis syrofinisa a genere et rogabat eum ut
+z,U+007A,the letter z,219,30,St Gall page 4 line 5: nuit pha res et zara th · de tha
+æ,U+00E6,"a and e joined, written as one letter",880,80,St Gall page 5 line 12: uit io seph :- uirum mariæ de
+ę,U+0119,"e with a hook below (e caudata), for ae",9,0,St Gall page 14 line 4: erit gehennę ignis · si ergo offeris monus tuum ad altare et
+ƕ,U+0195,Insular sign for autem,723,70,St Gall page 4 line 23: nas ses ƕ genuit am mon :- am
+ ,U+0020,word division (St Gall: between the TEI words; Kells: as written),52852,3758,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+#,U+0023,Kells answer key: a decorated initial,0,0,
+",",U+002C,comma (punctuation),9,4,"St Gall page 36 line 8: ibi uirtutes multas propter incredulitatem illorum :-,"
+-,U+002D,"dash (punctuation, often in :-)",59,11,St Gall page 4 line 3: nuit iacob :- iacob genuit iudam et
+.,U+002E,low dot (punctuation),33,2,St Gall page 9 line 5: dum uenit et stetit supra ubi erat puer . uidentes autem st
+/,U+002F,slash (punctuation); in St Gall only on lines kept out of training,0,24,
+:,U+003A,two dots (punctuation),112,18,St Gall page 4 line 3: nuit iacob :- iacob genuit iudam et
+?,U+003F,Kells answer key: a letter still unsure after settling; in St Gall a question mark occurs only in correctors' readings,0,0,
+_,U+005F,St Gall: one letter of an illegible gap; only on lines kept out of training,0,42,
+·,U+00B7,middle dot (punctuation),2098,138,St Gall page 4 line 1: xpi filii dauid · filii abracham abracham
+÷,U+00F7,Insular sign for est,654,84,St Gall page 5 line 13: qua na tus ÷ ihs qui uocatur xps
+⁊,U+204A,"Tironian sign for et; in St Gall only in correctors' readings, so in no St Gall label",0,0,
+⧺,U+29FA,Insular sign for enim,62,5,St Gall page 9 line 13: esto ibi usq dicam tibi futurum ÷ ⧺ ut hirodis requirat pue

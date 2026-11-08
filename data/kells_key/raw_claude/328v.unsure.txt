@@ -1,0 +1,16 @@
+01	apu?udae	the ? is a closed bowl with a right stem and no ascender seen, a faint stroke before it; Abbott apud iudaeos, so it may be d and i
+04	cumdiscipulis	gap of about 8 px between cum and discipulis; typed run together
+05	#oximum	decorated letter cut by the image left edge; the r of proximum is not seen (may be inside the initial)
+05	iudeoru	e has a hooked tail below (e caudata?); S-shaped mark above the final u taken as the m abbreviation and not typed
+06	?scenderunt	first letter cut by the image left edge, not readable
+06	inhierusolima?	last letter at the image right edge has a hooked descender; not readable (m?)
+07	paschautscificarent	letter after s read as c with i joined, under an abbreviation mark; final t written above the line
+08	#conloq:	the : after q is the que abbreviation sign, typed as :
+09	bantur·	tiny raised mark after r; may be a speck, not a dot
+09	quid	i has a long descender and the d a short leftward ascender; read as quid
+10	festum·	dot sits at mid letter height, typed raised
+14	indicet	final et is the &-shaped one with a drawn-out tongue
+14	utadpraehendatur.	dot after the r tail may be decoration before the rosette
+17	lazarus	large ink blot between u and s, not typed
+19	#eceruntautem	no visible gap between ecerunt and autem
+20	ueroera	no clear gap between uero and era; a t-like stroke below the line, cut by the image edge, not typed

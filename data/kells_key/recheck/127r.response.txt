@@ -1,0 +1,9 @@
+07	OK
+08	FLAG	priore · ait illis pylatus habitis	raised dot after priore
+09	FLAG	milites : ite custodite sicut scitis	two vertically stacked dots after milites
+10	FLAG	illi autem abeuntes cumcustodib	no word gap between m and c
+21	OK
+
+[thread id: 01a1a363-222c-7110-b387-5a5a2c9d0a6c]
+
+[gpt-6.1-sol: 20,522 in + 3,148 out tokens, ChatGPT plan (no API credit)]

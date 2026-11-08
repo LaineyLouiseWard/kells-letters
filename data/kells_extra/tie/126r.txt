@@ -1,0 +1,5 @@
+01	line 15	x 0-450
+
+GPT:
+01	#ontificum
+01 note	ti ligature; final m cut by edge

@@ -1,0 +1,34 @@
+<abbott>
+{ABBOTT}
+</abbott>
+
+<page>
+{PAGE}
+</page>
+
+<lines>
+{LINES}
+</lines>
+
+You are giving a typed transcription of the Book of Kells its last check before it becomes the answer key for testing handwriting-reading models. The Book of Kells is a Latin Gospel book written around 800 in Insular majuscule. The attached images are single lines of one page, in the order listed in <lines>.
+
+What the parts above are:
+- <abbott>: a passage of T. K. Abbott's 1884 edition, as scanned, with scanning errors, covering this page. It prints the standard Latin (Vulgate) text of Codex Amiatinus under page headers like "SECUNDUM [Ver. Vulg. vi. 18-26"; after "CODEX K." it lists, by verse number, the places where the Book of Kells has different words. It also holds notes on Codex D and the text of Codex Usserianus, a different Latin version: ignore those.
+- <page>: the settled typing of every line on the page, for context. Only the lines in <lines> are to be checked.
+- <lines>: for each line to check, two earlier typings made separately (typing A and typing B), which disagree, and the settled reading.
+
+Task: for each line in <lines>, decide whether the settled reading is exactly what its image shows, letter by letter and space by space, under the typing rules below.
+
+How to work:
+1. Look at the image at every place where typing A, typing B and the settled reading differ, and at any letter that is hard to see.
+2. Use Abbott only to know which word is meant. The Book of Kells has its own spellings and slips (for example ihs for Iesus, u where Abbott prints v, words run together, letters left out). Never change a letter to match Abbott: where the image and Abbott disagree, the image wins.
+3. Answer OK only if you would type the line exactly as the settled reading. Otherwise answer FLAG with the whole line as you read it.
+4. A letter you still cannot read is ?. Do not flag a line only to replace a ? with a guess.
+
+Typing rules (the settled reading follows these; judge it by them):
+{RULES}
+
+Answer with one line per checked line and nothing else, in the order of <lines>, each starting with the line number:
+NN<TAB>OK
+NN<TAB>FLAG<TAB>the whole line as you read it<TAB>for each place you changed, what the strokes in the image show, in a few words
+If a line holds no text, its reading is (no text).

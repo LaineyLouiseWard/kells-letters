@@ -1,0 +1,15 @@
+01	FLAG	xxviii	Two x letters, v, and three i strokes.
+05	FLAG	re sepulchrum etecce terrae mo	The penultimate letter has three stems: m.
+06	OK
+07	FLAG	enim dni decaelo discendit. etac	A separate low dot follows discendit.
+09	OK
+10	OK
+12	OK
+13	OK
+15	FLAG	motui	The final i has a clear upright stroke and top serif.
+16	OK
+18	OK
+
+[thread id: 01a1a5ec-0ea6-7353-99ad-165b059e4750]
+
+[gpt-6.1-sol: 22,338 in + 4,575 out tokens, ChatGPT plan (no API credit)]

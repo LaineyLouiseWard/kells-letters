@@ -1,0 +1,20 @@
+01	etipseuiuet	final letters of uiuet are an &-shaped sign with a drawn-out tail, typed et
+03	patres uestri	gap between patres and uestri small; may be run together
+04	quimanducathunc	no visible gap between t and h; t-bar touches the h
+05	uiuet	last sign is &-shaped with a long drawn-out tail, typed et
+05	inaeternum	gap between in and aeternum very small, typed as run together
+05	ins?	tall letter at line end with hooks at top and middle and a tail curving left below the line; looks like long s or f, possibly y
+06	incapharnauum	gap between in and c small, typed as run together
+06	#ulti	a-like shape after l (one c-curve under the t bar with a right stroke) read as ti
+07	eiusdixerunt	small gap between s and d, typed as run together
+08	eumaudi	i read from a separate curved stroke under the d at the line end; may be a stray stroke
+11	eishocuos	small gap between eis and hoc, typed as run together
+11	:·	three dots after the dotted end of the t-bar and before the rosettes; may be part of the ornament
+12	#ergo	decorated i ringed with dots, with a spiral ornament (perhaps part of an S) cut by the left edge; typed one #
+14	:·	three dots between the dotted s-flourish and the rosettes; may be ornament
+15	nonprodes	line image ends after s; a t may lie beyond the image edge
+16	quicguam	second letter after c has a flat top and curved tail like g, not the straight-tailed q
+16	:·	three dots between two rosettes; may be ornament
+16	#uitasunt	after ui: a c-curve under the t bar, then two bowls and a hooked c before s; read t a, could be ti plus a
+17	locutussum	t joined to the following u; no gap between locutus and sum
+20	#ebat	only e b a t visible after the decorated initial; c and i of Sciebat not seen in this image

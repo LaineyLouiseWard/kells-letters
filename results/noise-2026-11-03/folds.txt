@@ -1,0 +1,9 @@
+# Second measurement (python scripts/kells_noise.py data/runs/test-16 --model data/models/kraken16/best_0.9856.safetensors
+# --passes 10 --repeats 2): the deterministic pair ran while another job held the CPU (4 processes, about 350% each,
+# from 23:36), so its seconds are not comparable; its errors are.
+deterministic False, repeat 1: 30.3 s, 2.40 s a pass; 0.1159 0.0779 0.0710 0.0683 0.0623 0.0532 0.0477 0.0509 0.0513 0.0513
+deterministic False, repeat 2: 30.6 s, 2.42 s a pass; 0.1159 0.0784 0.0710 0.0687 0.0651 0.0518 0.0477 0.0518 0.0522 0.0532
+deterministic False: largest gap between repeats 0.27 points
+deterministic True, repeat 1: 36.2 s, 2.99 s a pass; 0.1155 0.0770 0.0710 0.0669 0.0632 0.0573 0.0513 0.0527 0.0550 0.0486
+deterministic True, repeat 2: 77.3 s, 4.12 s a pass; 0.1155 0.0770 0.0710 0.0669 0.0632 0.0573 0.0513 0.0527 0.0550 0.0486
+deterministic True: largest gap between repeats 0.00 points

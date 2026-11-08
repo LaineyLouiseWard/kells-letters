@@ -1,0 +1,21 @@
+{
+ "setting": "plain",
+ "settings": {
+  "plain": {
+   "passes": 20,
+   "two_fold_error": 0.0459
+  },
+  "freeze": {
+   "passes": 36,
+   "two_fold_error": 0.0488
+  }
+ },
+ "model": "data/models/kells/final.safetensors",
+ "model_md5": "543216e6ef0e9e2a0804a184ef6f6327",
+ "stgall_model": "data/models/kraken/best_0.9840.safetensors",
+ "stgall_model_md5": "db6a7a2cb575fdcaea00dce92f800869",
+ "key_md5": null,
+ "key_at_training": "lines compiled once; trained on the key as it stood before the edits at 22:11 (not kept)",
+ "archived": "from data/models/ and data/read/ on 3 Nov 2026 (night); scores rescored against adjudication.csv md5 c6578d45155e72e83a3388ed3bc6b5df",
+ "settings_note": "passes as trained (the final models' last checkpoints); with freezing, passes 22 and 36 tie at the 4 decimals of passes_freeze.csv and the script chose 36 from the unrounded errors"
+}

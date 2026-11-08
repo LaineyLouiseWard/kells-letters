@@ -1,0 +1,40 @@
+md5 cf165e67061d492b72f600a6a72b7c61 /home/people/18365881/scratch/kells-models/party-2026-06/model.safetensors
+md5 d5c6e5bbcccbd52561c1b4339ebfdad4 data/xml/stgall/train.party.arrow
+md5 3b847a74c25832930abb77014a0e2949 data/xml/stgall/val.party.arrow
+commit d194061
+md5 009b46d9da3e7718c6d613ec9eb0a241 data/runs/party-2026-06-extra/stgall/best.safetensors
+md5 bd2352b285cba7ea5b8457b18c56777f data/xml/stgall/test.party.arrow
+commit d194061
+Loading from data/runs/party-2026-06-extra/stgall/best.safetensors.
+Compiling model ✓
+[11/06/26 11:43:08] WARNING  max_generated_tokens (512) exceeds     party.py:312
+                             decoder max_seq_len (384); clamping.               
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃        Test metric        ┃       DataLoader 0        ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│      test_micro_cer       │   0.025818444788455963    │
+│      test_micro_wer       │    0.09669256955385208    │
+│    test_page_macro_cer    │    0.02540890872478485    │
+│    test_page_macro_wer    │    0.09626977145671844    │
+└───────────────────────────┴───────────────────────────┘
+Testing ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 23/23 0:03:54 • 0:00:00 0.09it/s 
+Model: data/runs/party-2026-06-extra/stgall/best.safetensors
+                                 Global metrics                                 
+                                                                                
+| C… | W… | CER (macro la… | WER (macro la… | CER (macro pa… | WER (macro pag… |
+|----|----|----------------|----------------|----------------|-----------------|
+| 2… | 9… | 2.58           | 9.67           | 2.54           | 9.63            |
+                                                                                
+                             Languages                              
+                                                                    
+|              | CER  | WER  | CER (macro page) | WER (macro page) |
+|--------------|------|------|------------------|------------------|
+| Undetermined | 2.58 | 9.67 | 2.54             | 9.63             |
+                                                                    
+              Scripts               
+                                    
+|        | CER  | CER (macro page) |
+|--------|------|------------------|
+| Latin  | 1.62 | 1.58             |
+| Common | 3.05 | 3.05             |
+                                    

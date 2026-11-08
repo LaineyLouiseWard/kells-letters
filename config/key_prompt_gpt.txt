@@ -1,0 +1,14 @@
+Each image is one line of a Latin manuscript, in the order numbered 01, 02, ... Type each line exactly as it is written, letter by letter, following these rules.
+
+- Letters in lower case, as written. Keep u and v, i and j as written. An enlarged letter is typed as its letter.
+- Do not expand shortened words: type only the letters on the page and leave out abbreviation strokes and marks.
+- Four signs are typed as one character each: ÷ for the sign for est, ƕ for the sign for autem, ⧺ for the sign for enim, ⁊ for the sign for et shaped like 7.
+- Letters joined together are typed as their separate letters. The et shaped like & is e and t joined: type et. A t followed by i, written as one c-shaped curve under the t's top bar with the i as its right-hand stroke, looks like a but is typed ti; the letter a has two bowls.
+- Punctuation as written, from · : . , - (type a raised dot as ·). Three dots are typed :· and one dot on the line is typed . (full stop).
+- Dots at the end of a drawn-out stroke or ornament, and dots ringing a decorated letter, are decoration: do not type them. A letter stroke drawn out along the line is not a hyphen.
+- A space only where the scribe left a visible gap; words written together stay together.
+- A decorated initial (enlarged and coloured, or ringed with dots) is typed #, whatever its letter, including a decorated et.
+- A letter cut by the edge of the image is typed if you can read it.
+- A letter you cannot read is typed ?.
+
+Answer with one line per image and nothing else, each starting with its number and a tab, for example "01<TAB>text". If an image holds no line of text (only decoration, a sliver of a letter, or only a page or folio number), give its number and leave the text empty.

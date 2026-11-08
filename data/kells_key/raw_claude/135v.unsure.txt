@@ -1,0 +1,12 @@
+03	cumauferetur	e after r has a tall top joined to the t-bar
+04	#tunc	the curve under the initial's dotted bar read as t; #unc if the initial itself is T
+04	inillisdiebus	no clear gap between illis and diebus, or between in and illis
+06	ueteri ·	single mid-height dot before the line-end rosette; may be decoration
+07	#ioquin	l of Al is merged into the decorated initial; last letters in or m
+07	nouus	s written above the line, joined to the last u; may be a mark for m (nouum)
+09	inutresueteres	s of ueteres written above the line; no clear gaps between in, utres and ueteres
+10	#ioquin	l merged into the decorated initial; faint dots after nouum at the line end not typed (show-through?)
+13	miti	one t-bar over i and an a-shaped ti; only one t visible (mitti expected)
+15	persata	final a drawn out along the baseline; letters under the bar unclear (ta or ti)
+16	caeperunt	second letter is a two-bowl a, not o
+17	eccequidfaci	last letter pair ci looks like a; ends at the image edge

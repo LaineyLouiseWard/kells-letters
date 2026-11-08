@@ -1,0 +1,13 @@
+{
+ "setting": "plain",
+ "settings": {
+  "plain": {
+   "passes": 50,
+   "two_fold_error": 0.040155380964279175
+  }
+ },
+ "model_md5": "ce599de76180ce79df49f81c7ad2748d",
+ "stgall_model_md5": "d297a45c0e13edc3c63e4bc93906d5e2",
+ "key_md5": "c6578d45155e72e83a3388ed3bc6b5df",
+ "commit": "5d4ecf8"
+}

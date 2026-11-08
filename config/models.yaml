@@ -1,0 +1,24 @@
+# Base models: where each comes from, and the md5 that its Zenodo record gives for the file (records read 3 Nov 2026).
+# `make models` downloads a missing file into <dir>/<name>/ and tests every file's md5 (scripts/models.py).
+dir: ~/.local/share/kells-models    # the KELLS_MODELS environment variable overrides it (on Sonic, for example)
+models:
+  catmus-1.5.0:                     # CATMuS Medieval 1.5.0, Kraken's classic reader
+    doi: 10.5281/zenodo.12743230
+    file: catmus-medieval.mlmodel
+    md5: 02bb2e4e5bc681c11579a860c40dc5a4
+    url: https://zenodo.org/api/records/12743230/files/catmus-medieval.mlmodel/content
+  catmus-1.6.0:                     # CATMuS Medieval: the record's version field says 1.6.2, its file is named 1.6.0;
+    doi: 10.5281/zenodo.21488839    # `kraken get` does not list it
+    file: catmus-medieval-1.6.0.mlmodel
+    md5: 326a6ea675661ec9ce0bb6b1958de495
+    url: https://zenodo.org/api/records/21488839/files/catmus-medieval-1.6.0.mlmodel/content
+  ppocrv6-medium:                   # Kraken's PP-OCRv6 reader, medium (about 16 million parameters)
+    doi: 10.5281/zenodo.21788410
+    file: medium.safetensors
+    md5: e3411a453ce3b9e9efae3f8631d85762
+    url: https://zenodo.org/api/records/21788410/files/medium.safetensors/content
+  party-2026-06:                    # party's multilingual base model, June 2026: the version that the concept DOI
+    doi: 10.5281/zenodo.20642057    # 10.5281/zenodo.14616980 resolved to on 3 Nov 2026
+    file: model.safetensors
+    md5: cf165e67061d492b72f600a6a72b7c61
+    url: https://zenodo.org/api/records/20642057/files/model.safetensors/content

@@ -1,0 +1,21 @@
+01	?idam	first letter cut by the image edge; only a partial stroke
+01	decustodibus	e not clearly distinct from c (reads dc-)
+01	inciuitatem	t and a forms in -tatem merge; tall hooked stroke above the final m
+02	#adnuntiauerunt	a after the decorated et may be part of the initial's tail
+02	principib	b followed by the ;-shaped -us sign, left out
+02	sacerdotum·	dot close after m, upper half of the x-height
+03	quaefacte	final letter looks like e (c with tongue); no a seen between t and e
+03	etcongregati	et shaped like & (G with tail), enlarged but not coloured; comma-like mark before quae not typed
+04	cumseniorib	b followed by the ;-shaped -us sign, left out
+05	militibus	ti written as an a-like shape; the i before it is uncertain
+05	dici	c and i written as one bowl with a right stroke (looks like a)
+06	quiadiscipuli	ci written as a single-bowl a-like shape
+09	suadebimus	letters after sua crowded; d and e uncertain
+09	faciemus ·	mark is a short horizontal stroke at mid height; · or -
+10	#tilli	t has a coloured bowl; its bar runs into the i
+12	inodiernum	no h visible between in and odiernum
+13	?decim	only the last stroke of a letter (n?) at the image edge; the initial is outside the image
+15	qui	the i may be the u's second stroke
+16	dubitauerunt ·	one dot at mid height below the end of the drawn-out t-bar; the dot at the bar's end taken as decoration; may be :
+17	loqutus	u-t after loq unclear (a-like shape)
+17	dataest	no visible gap before est; the < and zigzag ornament before data not typed

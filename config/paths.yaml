@@ -1,0 +1,41 @@
+data_dir: data
+kells:
+  work_url: https://digitalcollections.tcd.ie/concern/works/hm50tr726
+  download_url: https://digitalcollections.tcd.ie/downloads
+  out: raw/kells
+  zones: config/zones.csv   # relative to the repo root
+  height: 3150              # every Kells image is 3150 pixels high; widths vary with the page (2248 to 2595 seen)
+stgall:
+  manifest_url: https://www.e-codices.unifr.ch/metadata/iiif/csg-0051/manifest.json
+  out: raw/stgall51
+  tei_url: https://itseeweb.cal.bham.ac.uk/insulargospels/insular_gospel_transcriptions.zip
+  tei_out: raw/insular_gospels_tei
+  tei_files: [01_M14_SG51.xml, 02_M14_SG51.xml, 03_M14_SG51.xml, 04_M14_SG51.xml]
+  text: stgall/lines_text.csv
+delay_seconds: 3
+manifests: manifests        # data/manifests/stgall51.csv and kells.csv: one row per page, the source of every count
+seg: seg                    # data/seg/<book>/<page>.json: Kraken's lines in page pixels
+xml: xml                    # data/xml/<book>/: one PageXML per page, pairs.csv, dropped.csv, split lists
+runs: runs                  # data/runs/<run>/: one reader run: its models, readings and own copy of the key
+results: results            # results/<run>/: that run's record (scores, pass errors, choice), kept in git
+kraken:
+  model: blla.mlmodel       # Kraken 7.1.1's default baseline segmenter, inside the kraken package
+  sha256: 77a638a83c9e535620827a09e410ed36391e9e8e8126d5796a0f15b978186056
+  workers: 4
+# Thresholds, fixed before any result was seen.
+SHORT: 0.2                  # a line shorter than this share of its page's median length is left out of pairing
+WIDTH_BAND: [0.75, 1.33]    # baseline length per character of a line, as a share of its page's median
+WIDTH_MIN_CHARS: 5          # the page median is taken over lines with at least this many characters
+PAGE_FAIL: 0.1              # a page is dropped when more than this share of its lines fall outside WIDTH_BAND
+SPACING_BAND: [0.67, 1.5]   # gap between paired lines, as a share of the page's median gap: a missed line doubles
+                            # a gap and an extra line halves it; the band sits midway (log scale)
+SEED: 20261103
+TEST_SHARE: 0.10            # St Gall test pages hold at least this share of train=1 lines, then val VAL_SHARE
+VAL_SHARE: 0.05
+MIN_TRAIN_LINES: 4000
+CER_GATE: 0.10
+DISPLAY_LINES: 5            # a Kells page with fewer lines of normal length is a display page
+KELLS_PASSES: 50            # Kells fine-tuning: passes measured on each fold (the most a final model trains)
+FREEZE_PASSES: 10           # with freezing, all but the output layer fixed for this many passes' worth of lines
+READER_MARGIN: 0.0046       # another reader replaces Kraken's classic one only if its two-fold error is lower by
+                            # more than this (run-to-run noise without -r, notes/results.md)

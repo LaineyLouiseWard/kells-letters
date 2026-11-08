@@ -1,0 +1,21 @@
+{
+ "setting": "plain",
+ "settings": {
+  "plain": {
+   "passes": 32,
+   "two_fold_error": 0.0459
+  },
+  "freeze": {
+   "passes": 15,
+   "two_fold_error": 0.0461
+  }
+ },
+ "model": "data/models/kells16/final.safetensors",
+ "model_md5": "4fb44f8278e961ae0f754afc2a59436e",
+ "stgall_model": "data/models/kraken16/best_0.9856.safetensors",
+ "stgall_model_md5": "ceeb849d5a410a7eef0232d3029f50e3",
+ "key_md5": null,
+ "key_at_training": "lines compiled once; the key was edited at 22:11 during these runs, so some fold runs trained on the key before the edit and some after",
+ "archived": "from data/models/ and data/read/ on 3 Nov 2026 (night); scores rescored against adjudication.csv md5 c6578d45155e72e83a3388ed3bc6b5df",
+ "settings_note": "passes as trained (the final models' last checkpoints)"
+}

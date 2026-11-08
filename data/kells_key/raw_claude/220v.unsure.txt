@@ -1,0 +1,19 @@
+02	?cidit	first glyph is a-shaped (bowl plus right stem, notched top), like the next glyph and the page's a; no e tongue seen
+04	?cidit	same a-shaped first glyph as line 02
+06	?cidit	same a-shaped first glyph as line 02
+06	fecit	c and i written as one a-shaped glyph; t cut by the image edge
+02	etnatum	no clear gap between et and natum
+03	etaliud	et joined to a; gap unclear
+05	suffucauerunt	u after ff (not o); a small box-shaped mark under ff
+06	etortum	dark spot over the r and t; gap after et unclear
+08	audiendi	small gap between au and diendi
+09	·	single dot just after the drawn-out t-bar of diat; may be decoration
+09	#terrogabant	decorated IN: tall I and N both enlarged and ringed; typed as one #
+11	quibusipse	small gap between s and i; may be a word space
+11	datumest	no clear gap between m and e
+13	utuide?	final sign is a 3-shaped stroke after e descending below the line (stands for n?); t and u joined at the foot
+14	nonin	no clear gap between non and in
+15	:·	dots mixed with small ornament circles
+16	semenest	n and e close; no clear word gap
+16	quiaute	s-shaped curl above the final e (abbreviation?) left out
+17	sunt quiaudiunt	faint dot cluster after sunt, low on the line; taken as offset decoration, not typed

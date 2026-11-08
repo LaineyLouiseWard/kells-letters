@@ -1,0 +1,12 @@
+01	·ihs·	the dot before ihs is a faint small speck; may not be ink
+03	cordisillorum	gap between s and i is small (about 10 px); may be a word space
+04	eumresurrexisse	small gap between m and r; may be a word space
+05	nuntiantibus	a dark spot covers the foot of the second a and the n after it
+05	#dixiteis	i and x run together; the strokes between d and t are hard to separate
+12	uero non	a stain covers the end of the o; the gap before non is partly hidden
+13	condempnabitur signa	small gap between r and s; may be run together
+16	#ec	no a visible between the initial and e
+16	meo de	m stands apart from eo by a near word-sized gap; o and d also loosely spaced
+19	tollent	the t-bar runs to the image edge; text may continue beyond the crop
+20	quidbiberint	gap between d and b is borderline; may be a word space
+20	noneos	gap between n and e is borderline; may be a word space

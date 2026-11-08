@@ -1,0 +1,29 @@
+folio,n,settled,gpt_reading,gpt_note,call,final,reason
+121v,4,#incipes autem sacerdotum,#incipes autem · sacerdotum,raised dot after autem,change,#incipes autem · sacerdotum,zoomed: a distinct round dot at mid-height between autem and sacerdotum
+121v,6,pulis utpeterent barban ihmue,pulis utpeterent barban ihm ue,visible gap between m and u,keep,pulis utpeterent barban ihmue,the m to u gap is no wider than the space between letters
+121v,7,ro perderent,ro perderent :·,three dots beyond the ornament,keep,ro perderent,the dots follow the line-filling stroke: decoration
+121v,17,uerunt dicentes crucifigatur,uerunt dicentes crucifigatur ·,separate raised dot after final r,keep,uerunt dicentes crucifigatur,"the mark after r is a smudge among show-through, not a clear dot"
+126r,14,rum sebaedei :·,rum sebaedei :· :·,two separate groups of three dots after sebaedei,keep,rum sebaedei :·,the second group sits at the start of the line-filling ornament: decoration
+127v,1,<none>,xxviii,"Two x letters, v, and three i strokes.",keep,<none>,"a chapter number, not the text: left empty as a page number is"
+127v,5,re sepulchrum etecce terrae no,re sepulchrum etecce terrae mo,The penultimate letter has three stems: m.,keep,re sepulchrum etecce terrae no,"zoomed: two stems joined by one arch, n"
+127v,7,enim dni decaelo discendit etac,enim dni decaelo discendit. etac,A separate low dot follows discendit.,keep,enim dni decaelo discendit etac,zoomed: no dot after discendit
+127v,15,motu?,motui,The final i has a clear upright stroke and top serif.,keep,motu?,the last glyph stays unreadable: ?
+212v,5,enim faciebant profetas patreseo,enim faciebant profetis patreseo,"After e, joined ti has one curve beneath the t-bar, with i as its right stroke.",keep,enim faciebant profetas patreseo,"two bowls after the t, as settled; not clear enough to change"
+212v,14,seodo profetas patres eorum :·,seodo profetis patres eorum :·,"After e, joined ti has one curve beneath the t-bar, with i as its right stroke.",keep,seodo profetas patres eorum :·,"two bowls after the t, as settled; not clear enough to change"
+321v,6,cultorest etuoluntatem eius facithu,cultorest etuoluntatem eius facit hu,Visible gap between final t and h.,keep,cultorest etuoluntatem eius facithu,no gap wider than between letters between facit and hu
+321v,11,nt ei mpeccatis natuses totus ettudoces,nt ei inpeccatis natuses totus ettudoces,"Separate i followed by n, rather than m.",change,nt ei inpeccatis natuses totus ettudoces,"zoomed at 3x: the first minim stands apart, the arch joins only the second and third: i then n"
+331r,8,etprotestatusest dixitamen amen,etprotestatusest dixitamenamen,No visible gap between the two amens.,keep,etprotestatusest dixitamen amen,a clear gap between the two amen
+331r,9,dicouobis quiaunus exuobismetrade,dicouobis quiaunus exuobismetradet,Final t is visible at the right edge.,keep,dicouobis quiaunus exuobismetrade,zoomed: the line ends in the e's drawn-out tongue; no t in the image
+331r,15,innuit ergohuicsimon petrus etdicitei,innuit ergohuic simon petrus etdicitei,Visible gap after huic.,keep,innuit ergohuicsimon petrus etdicitei,no gap wider than between letters between huic and simon
+331r,24,<none>,the board of,Printed words “The Board of” are visible.,keep,<none>,"Trinity's printed caption, not the text"
+331r,25,<none>,trinity,Printed word “Trinity” is visible.,keep,<none>,"Trinity's printed caption, not the text"
+331r,26,<none>,college dublin,Printed words “College Dublin” are visible.,keep,<none>,"Trinity's printed caption, not the text"
+331r,27,<none>,du,Clipped but readable printed D and u.,keep,<none>,"Trinity's printed caption, not the text"
+67r,3,sautem auditeparabulam semi,s autem auditeparabulam semi,Visible gap after initial s.,keep,sautem auditeparabulam semi,s touches autem
+67r,4,nantis omnis quiaudit uerbumregni,#antis omnis quiaudit uerbumregni,Initial n has spiral decoration.,keep,nantis omnis quiaudit uerbumregni,zoomed: the spiral is the foot of an initial from the lines above; the n is plain
+67r,6,illudquodseminatumest incorde eius,illudquodseminatumest incorde eius:·,Three dots after eius.,keep,illudquodseminatumest incorde eius,the dots after eius are line filling
+89v,5,nonest meumdare uobis· #edqui,nonest meumdare uobis:· #edqui,Three dots after uobis.,keep,nonest meumdare uobis· #edqui,the dots after the black point are red: decoration
+89v,6,quibus paratum est apatre meo ·,quibus paratum est apatre meo,Trailing dots form part of the end ornament.,keep,quibus paratum est apatre meo ·,"zoomed: a black point after a gap, before the red dots of the ornament"
+89v,7,dientes illi·x· indignati,dientes illi:·x:· indignati,Three dots on each side of x.,keep,dientes illi·x· indignati,the dots around the black points are red: decoration
+89v,14,?a?t scitis quiaprincipes gentiu,ait scitis quiaprincipesgentiu,Clipped a followed by i and t; no gap between principes and gentiu.,change,ait scitis quiaprincipes gentiu,"the clipped bowl and the next are the two bowls of a, the stroke is i: ait; the gap before gentiu stays"
+89v,20,teruos primus esse erit uester,teruos primus esseerit uester,No gap between esse and erit.,keep,teruos primus esse erit uester,a clear gap under the drawn-out e-tongue

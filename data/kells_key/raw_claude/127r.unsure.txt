@@ -1,0 +1,11 @@
+01	dixit	small blob after the t, read as the upturned end of the t (as in post), not typed as a dot
+03	indiem	faint strokes after the m, probably show-through, not typed
+06	amortuis	u after t: bowl plus right stroke, read as u
+06	·	dot at the image edge; a further faint mark above-right may make it :· cut by the edge
+07	#terit	t is the c-curve inside the dotted ring after the decorated E; no gap seen before erit
+07	errorpeior	gap between error and peior very small, typed as run together
+08	ait	blob after the t read as the t end, not a dot
+08	habitis	letter after b is a straight stroke with no e-tongue, typed i
+09	:	very faint two dots between milites and ite; may be show-through
+09	custodite	a dotted vertical stroke crosses the drawn-out e-tongue after custodite (cross-like mark), not typed
+10	custodib	b followed by a ;-shaped -us sign, not typed

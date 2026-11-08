@@ -1,0 +1,12 @@
+01	OK
+02	OK
+05	FLAG	ei uerbum neq: ausus fuit quis	two stacked dots after q
+08	OK
+11	OK
+14	FLAG	cundum· uero operaeorum nolite	enlarged u has no decoration
+15	OK
+16	FLAG	#lligauit autem oneragrauia	final a has two bowls
+
+[thread id: 01a1a363-225c-71b2-b1f7-b04ee4b1459a]
+
+[gpt-6.1-sol: 21,865 in + 4,747 out tokens, ChatGPT plan (no API credit)]

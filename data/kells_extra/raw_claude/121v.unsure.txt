@@ -1,0 +1,18 @@
+02	perujsum	the i after u rises above and descends well below the line with a leftward hook; typed j per 'i and j as written'; could be keyed i
+04	rincipes	r is enlarged, its bowl coloured and ringed with red dots; typed r because the decorated P of Principes is outside this image and 'The letters after it are typed normally' (308r line 06 #um); alternative #
+04	·	small round dot at mid-height between autem and sacerdotum, about a third the size of the settled 308r line 07 dot; typed per 'Punctuation as written ... (a raised dot is ·)'; could be a speck
+06	ihmue	m to u gap is only about 10 px, no wider than letter spacing; kept together per 'Spaces only where the scribe left a visible gap'
+08	espondens	e is coloured and ringed with red dots; typed e as the letter after the decorated R (outside image), as 308r line 12 #espo
+09	deduobus	s to d gap about 13 px; typed as a space; could be run together
+10	atilli	after the two-bowl a comes a c-curve under a flat top bar with a right upright, read as ti per the 308r convention ('looks like the letter a but is ti'); could be d (ad illi)
+12	icitillis	I is enlarged with ornamented terminals and ringed with red dots, and ci is ringed too; typed i as letters after the decorated D (outside this image, line 11 is its sliver) per 'The letters after it are typed normally'; alternative #
+12	pjlatus	i after p descends below the line with a leftward foot; typed j per 'i and j as written'
+13	quidiciturxps	ci and tu read from a-like glyphs (c-curve plus right upright); no gap before xps
+14	#icuntomnes	t to o gap about 11 px under the t-bar; kept together
+15	tillis	image starts on the cut right edge of the decorated A of Ait, not readable, not typed ('typed if it can be read'); the first glyph is the a-like ti; no separate i of Ait seen
+16	fecit ·	square dot at mid-height right after t, under the t-bar that runs on to the A; typed as punctuation, not as dots at the end of a drawn-out stroke
+16	#tilli	enlarged A outlined with red dots typed # per 'A decorated initial (enlarged and coloured, or ringed with red dots) is #'; next glyph is the a-like ti
+16	clama	last glyph is one bowl plus a right stem with a long tail sweeping below the line to the right; read as a line-end a (Kells a is normally two-bowled); could be q
+17	u erunt	visible gap of about 15 px between u and erunt; typed as a space per 'Spaces only where the scribe left a visible gap'; could be uerunt
+18	dens	d has a gold-filled bowl; typed d because the decorated V and the tall I of Videns are outside this image ('The letters after it are typed normally')
+18	pjlatus	i after p descends below the line with a leftward foot; typed j per 'i and j as written'

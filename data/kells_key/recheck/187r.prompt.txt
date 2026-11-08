@@ -1,0 +1,185 @@
+<abbott>
+
+Cod.  UsserP^  MARCUM.  799 
+
+quippe  magnus  valde.  5  Et  introeuntes  in  mo- 
+numento  viderunt  iuvenem  sedentem  in  dextris, 
+coopertum  stola  candida,  et  obstupuerunt.  6  Qui 
+dicit  illis  Nolite  expavescere :  lesum  quaeritis 
+Nazarenum  crucifixum  :  surrexit,  non  est  hic ; 
+ecce  locus  ubi  posuerunt  eum.  7  Sed  ite  dicite 
+discipulis  eius  et  Petro  quia  praecedit  vos  in  Ga- 
+lilaeam  :  ibi  eum  videbitis,  sicut  dixit  vobis.  8  At 
+illae  exeuntes  fugerunt  de  monumento  :  invaserat 
+enim  eas  tremor  et  pavor,  et  nemini  quicquam 
+dixerunt  :  timebant  enim.  47  9  Surgens  autem 
+mane  prima  sabbati  apparuit  primo  Mariae  Mag- 
+dalene,  de  qua  eiecerat  septem  daemonia.  10  Illa 
+vadens  nuntiavit  his  qui  cum  eo  fuerant,  lugenti- 
+bus  et  flentibus.  1 1  Et  illi  audientes  quia  viveret 
+et  visus  esset  ab  ea,  non  crediderunt.  12  Post 
+haec  autem  duobus  ex  eis  ambulantibus  ostensus 
+est  in  alia  effigie,  euntibus  in  villam.  13  Et  illi 
+euntes  nuntiaverunt  ceteris :  nec  illis  crediderunt. 
+14  Novissime  recumbentibus  illis  undecim  ap- 
+paruit,  et  exprobravit  incredulitatem  illorum  et 
+duritiam  cordis,  quia  his  qui  viderant  eum  resur- 
+rexisse  non  crediderant.  15  Et  dixit  eis  Euntes 
+in  mundum  universum  praedicate  evangelium 
+
+
+8oo  SECUNDUM    [Ver.Vu/g.  xvi.  ij-io 
+
+omni  creaturae.  i6  Qui  crediderit  et  baptizatus 
+fuerit  salvus  erit,  qui  vero  non  crediderit  con- 
+demnabitur.  17  Signa  autem  eos  qui  credide- 
+rint  haec  sequentur  :  in  nomine  meo  daemonia 
+eicient,  linguis  loquentur  novis,  18  serpentes 
+tollent,  et  si  mortiferum  quid  biberint  non  eos 
+nocebit,  super  egrotos  manus  inponent  et  bene 
+
+[In Mark, Abbott lists the differences of Codex D and Codex K (Kells) after the Gospel, by page. The entries for this passage's pages:]
+Ad pag.  798. 
+
+CoDEX  D. — 41  Hyerusolima.   43  petiit.    XVI.  3  revolvit. 
+
+CoDEX  K. —  41  Hyerusolima.  43  nubilis  .  .  .  introivit. 
+41  arcessito  .  .  .  interrogabat.  45  corpus  lesu.  46  mer- 
+catus  est  .  .  .  involvit  in  sindonem  .  .  .  excisum  erat  .  .  . 
+fin.  add.  et  abiit.  XVI.  3  revolvit  .  .  .  ab  ostium  .  .  .  fin. 
+add.  erat  autem  magnus  nimis.    4  viderunt. 
+
+Adpag.'^^^. 
+
+CoDEX  D. — 5  (monumento  =  Am.).  7  sedete  pro  sed  ite. 
+9  autem  lesus  mane.    12  duobus  ex  his.    14  crediderunt. 
+
+CoDEX  K. — 5  (monumento  =  ^;??.).  6  dixit  .  .  .  Nazare- 
+num  non  est  hic  crucifixum  surrexit.     7  ite  discipulis  eius  et 
+
+3  G 
+
+
+8i8 
+
+
+SECUNDUM  MARCUM. 
+
+
+dicite  et  Petro  .  .  .  quia  ecce.  9  autem  lesus  .  .  .  apparuit 
+lesus  .  .  .  om.  Mariae  .  .  .  eiciebat.  10  At  illa.  13  sed  nec 
+illis.  14  novissime  autem  .  .  .  apparuit  lesus  .  .  .  illorum  pro 
+eorum  .  .  .  cordis  illorum  .  .  .  crediderunt  nuntiantibus. 
+
+
+Ad pag.  800. 
+CoDEX  D. — 18  biberit*  .  .  .  egros. 
+
+CoDEX  K. — 17  loquentur  linguis  novis.  18  aegros  .  .  . 
+inponent  manus.    19  autem  illi.    20  om.  Amen. 
+
+
+
+</abbott>
+
+<page>
+01	illis undecim apparuit ·ihs· #expro
+02	brauit incredulitatem eorum etdu
+03	ritiam cordisillorum quiahis qui ui
+04	derant eumresurrexisse noncredi
+05	derunt · nuntiantibus · #dixit eis
+06	(no text)
+07	(no text)
+08	euntes inmundum uniuersum prae
+09	(no text)
+10	dicate euangelium omni creaturae
+11	quicrediderit #baptizatus fu
+12	erit saluus erit :· #ui uero non
+13	crediderit condempnabitur signa
+14	(no text)
+15	autem eos quicrediderint
+16	#ec sequentur innomine meo de
+17	(no text)
+18	monia eicient loquentur linguis
+19	nouis serpentes tollent
+20	mortiferum quidbiberint noneos
+21	nocebit superaegros inponentma
+22	nus #bene habebunt · #dns
+23	(no text)
+24	(no text)
+</page>
+
+<lines>
+Image 1 is line 01
+  typing A: illis undecim apparuit ·ihs· #expro
+  typing B: illis undecim apparuit ihs #expro
+  settled:  illis undecim apparuit ·ihs· #expro
+Image 2 is line 02
+  typing A: brauit incredulitatem eorum etdu
+  typing B: brauit incredulitatem eorum #du
+  settled:  brauit incredulitatem eorum etdu
+Image 3 is line 03
+  typing A: ritiam cordisillorum quiahis qui ui
+  typing B: ritiam cordis illorum quiahis qui ui
+  settled:  ritiam cordisillorum quiahis qui ui
+Image 4 is line 04
+  typing A: derant eumresurrexisse noncredi
+  typing B: derant eum resurrexisse noncredi
+  settled:  derant eumresurrexisse noncredi
+Image 5 is line 05
+  typing A: derunt · nuntiantibus · #dixiteis
+  typing B: derunt· nuntiantibus· #dixit eis
+  settled:  derunt · nuntiantibus · #dixit eis
+Image 6 is line 13
+  typing A: crediderit condempnabitur signa
+  typing B: crediderit condemnabitur.signa
+  settled:  crediderit condempnabitur signa
+Image 7 is line 15
+  typing A: autem eos quicrediderint
+  typing B: #utem eos quicrediderint
+  settled:  autem eos quicrediderint
+Image 8 is line 16
+  typing A: #ec sequentur innomine meo de
+  typing B: #ec sequentur innomine meode
+  settled:  #ec sequentur innomine meo de
+Image 9 is line 20
+  typing A: mortiferum quidbiberint noneos
+  typing B: mortiferum quidbiberint non eos
+  settled:  mortiferum quidbiberint noneos
+Image 10 is line 21
+  typing A: nocebit superaegros inponentma
+  typing B: nocebit superaegros inponent ma
+  settled:  nocebit superaegros inponentma
+</lines>
+
+You are giving a typed transcription of the Book of Kells its last check before it becomes the answer key for testing handwriting-reading models. The Book of Kells is a Latin Gospel book written around 800 in Insular majuscule. The attached images are single lines of one page, in the order listed in <lines>.
+
+What the parts above are:
+- <abbott>: a passage of T. K. Abbott's 1884 edition, as scanned, with scanning errors, covering this page. It prints the standard Latin (Vulgate) text of Codex Amiatinus under page headers like "SECUNDUM [Ver. Vulg. vi. 18-26"; after "CODEX K." it lists, by verse number, the places where the Book of Kells has different words. It also holds notes on Codex D and the text of Codex Usserianus, a different Latin version: ignore those.
+- <page>: the settled typing of every line on the page, for context. Only the lines in <lines> are to be checked.
+- <lines>: for each line to check, two earlier typings made separately (typing A and typing B), which disagree, and the settled reading.
+
+Task: for each line in <lines>, decide whether the settled reading is exactly what its image shows, letter by letter and space by space, under the typing rules below.
+
+How to work:
+1. Look at the image at every place where typing A, typing B and the settled reading differ, and at any letter that is hard to see.
+2. Use Abbott only to know which word is meant. The Book of Kells has its own spellings and slips (for example ihs for Iesus, u where Abbott prints v, words run together, letters left out). Never change a letter to match Abbott: where the image and Abbott disagree, the image wins.
+3. Answer OK only if you would type the line exactly as the settled reading. Otherwise answer FLAG with the whole line as you read it.
+4. A letter you still cannot read is ?. Do not flag a line only to replace a ? with a guess.
+
+Typing rules (the settled reading follows these; judge it by them):
+- Letters in lower case, as written. Keep u and v, i and j as written. An enlarged letter is typed as its letter.
+- Do not expand shortened words: type only the letters on the page and leave out abbreviation strokes and marks.
+- Four signs are typed as one character each: ÷ for the sign for est, ƕ for the sign for autem, ⧺ for the sign for enim, ⁊ for the sign for et shaped like 7.
+- Letters joined together are typed as their separate letters. The et shaped like & is e and t joined: type et. A t followed by i, written as one c-shaped curve under the t's top bar with the i as its right-hand stroke, looks like a but is typed ti; the letter a has two bowls.
+- Punctuation as written, from · : . , - (type a raised dot as ·). Three dots are typed :· and one dot on the line is typed . (full stop).
+- Dots at the end of a drawn-out stroke or ornament, and dots ringing a decorated letter, are decoration: do not type them. A letter stroke drawn out along the line is not a hyphen.
+- A space only where the scribe left a visible gap; words written together stay together.
+- A decorated initial (enlarged and coloured, or ringed with dots) is typed #, whatever its letter, including a decorated et.
+- A letter cut by the edge of the image is typed if you can read it.
+- A letter you cannot read is typed ?.
+
+Answer with one line per checked line and nothing else, in the order of <lines>, each starting with the line number:
+NN<TAB>OK
+NN<TAB>FLAG<TAB>the whole line as you read it<TAB>for each place you changed, what the strokes in the image show, in a few words
+If a line holds no text, its reading is (no text).

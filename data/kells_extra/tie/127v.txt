@@ -1,0 +1,14 @@
+01	line 5	x 1050-1442
+02	line 12	x 0-420
+03	line 12	x 1150-1408
+04	line 15	x 0-420
+
+GPT:
+01	rrae m
+01 note	final m
+02	#raetimor
+02 note	ae, ti
+03	territi
+03 note	final ti faint
+04	mortui
+04 note	r, u faint
